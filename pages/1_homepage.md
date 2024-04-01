@@ -29,13 +29,13 @@ permalink: /homepage/
 
 ### Education 
 
-* Sep., 2019 - Feb., 2024: Doctoral student, Ph.D. degree in Computer Technology and Application, [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China (Supervisor: Prof. [Li Feng](https://www.must.edu.mo/scse/staff/fengli), Prof. [Qinglin Zhao](https://www.must.edu.mo/scse/staff/zhao-qing-lin)).
+* Sep., 2019 - Feb., 2024: Ph.D. degree, Computer Technology and Application, [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China (Supervisor: Prof. [Li Feng](https://www.must.edu.mo/scse/staff/fengli), Prof. [Qinglin Zhao](https://www.must.edu.mo/scse/staff/zhao-qing-lin)).
 
 * Sep., 2017 - Aug., 2019: M.S. degree, Computer and Information Systems, [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China (Supervisor: Prof. [Li Feng](https://www.must.edu.mo/scse/staff/fengli), Prof. [Qinglin Zhao](https://www.must.edu.mo/scse/staff/zhao-qing-lin)).
 
 * Sep., 2014 - Jun., 2015: Visiting student (Outstanding Engineer Education and Training Program), Information and Communication Engineering, PLA University of Science and Technology (now [Army Engineering University of PLA](https://www.aeu.edu.cn/main.htm)), Nanjing, China.
 
-* Sep., 2011 - Jun., 2014: Undergraduate student, B.S degree in Information and Computing Science, [University of Science and Technology Beijing](https://www.ustb.edu.cn/), Beijing, China. 
+* Sep., 2011 - Jun., 2014: B.S degree, Information and Computing Science, [University of Science and Technology Beijing](https://www.ustb.edu.cn/), Beijing, China. 
 
 ---
 
@@ -43,7 +43,7 @@ permalink: /homepage/
 
 * Oct., 2016 - Aug., 2017: **Administrative Assistant**, [Center for Social Research (CSR)](https://csr.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/).
 
-* Jul., 2015 - Sep., 2016: **Senior Data Analyst**, [China Family Panel Studies](https://www.isss.pku.edu.cn/cfps/en/) program, [Institute of Social Science Survey](https://www.isss.pku.edu.cn/english/index.htm), [Peking University](https://english.pku.edu.cn/).
+* Jul., 2015 - Sep., 2016: **Senior Data Analyst**, [China Family Panel Studies](https://www.isss.pku.edu.cn/cfps/en/) Program, [Institute of Social Science Survey](https://www.isss.pku.edu.cn/english/index.htm), [Peking University](https://english.pku.edu.cn/).
 
 ---
 
