@@ -34,7 +34,7 @@ Address: xxx
 
 * 09/2017-08/2019: M.S. degree, Computer and Information Systems, [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China (Supervisor: [Prof. Li Feng](https://www.must.edu.mo/scse/staff/fengli), [Prof. Qinglin Zhao](https://www.must.edu.mo/scse/staff/zhao-qing-lin));
 
-* 09/2014-06/2015: Visiting student(Outstanding Engineer Education and Training Program), Information and Communication Engineering, PLA University of Science and Technology (now [Army Engineering University of PLA](https://www.aeu.edu.cn/main.htm)), Nanjing, China;
+* 09/2014-06/2015: Visiting student (Outstanding Engineer Education and Training Program), Information and Communication Engineering, PLA University of Science and Technology (now [Army Engineering University of PLA](https://www.aeu.edu.cn/main.htm)), Nanjing, China;
 
 * 09/2011-06/2014: Undergraduate student, B.S degree in Information and Computing Science, [University of Science and Technology Beijing](https://www.ustb.edu.cn/), Beijing, China. 
 
@@ -62,6 +62,9 @@ Address: xxx
 
 ### Publications
 #### Journal Articles
+
+* **Yulei Wang**, Qinglin Zhao, Shumin Yao, MengChu Zhou, Li Feng, and Peiyun Zhang, “Performance Analysis of Node-Assisted WiFi Backscatter Communication: A Stochastic Geometry Approach,” *IEEE Internet of Things Journal*, accepted, DOI: 10.1109/JIOT.2024.3384032. (SCI-indexed, **JCR Q1, 中科院1区Top, IF = 10.6** in 2024)
+
 
 * **Yulei Wang**,  Li Feng, Shumin Yao, Hong Liang, Haoxu Shi and Yuqiang Chen, "[Outage Probability Analysis for D2D-Enabled Heterogeneous Cellular Networks with Exclusion Zone: A Stochastic Geometry Approach](https://www.techscience.com/CMES/v138n1/54254)", *Computer Modeling in Engineering & Sciences*, May 2023. (SCI-indexed, JCR Q3, IF = 2.4 in 2023)
 
