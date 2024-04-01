@@ -30,13 +30,13 @@ Address: xxx
 
 ### Education 
 
-* 09/2019-02/2024: Ph.D. degree, Computer Technology and Application, [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China (Supervisor: [Prof. Li Feng](https://www.must.edu.mo/scse/staff/fengli) [Qinglin Zhao](https://www.must.edu.mo/scse/staff/zhao-qing-lin));
+* 09/2019-02/2024: Doctoral student, Ph.D. degree in Computer Technology and Application, [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China (Supervisor: [Prof. Li Feng](https://www.must.edu.mo/scse/staff/fengli), [Prof. Qinglin Zhao](https://www.must.edu.mo/scse/staff/zhao-qing-lin));
 
-* 09/2017-08/2019: M.S. degree, Computer and Information Systems, [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China (Supervisor: [Prof. Li Feng](https://www.must.edu.mo/scse/staff/fengli) [Qinglin Zhao](https://www.must.edu.mo/scse/staff/zhao-qing-lin));
+* 09/2017-08/2019: M.S. degree, Computer and Information Systems, [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China (Supervisor: [Prof. Li Feng](https://www.must.edu.mo/scse/staff/fengli), [Prof. Qinglin Zhao](https://www.must.edu.mo/scse/staff/zhao-qing-lin));
 
-* 09/2014-06/2015: Outstanding Engineer Education and Training Program, Information and Communication Engineering, PLA University of Science and Technology (now [Army Engineering University of PLA](https://www.aeu.edu.cn/main.htm)), Nanjing, China;
+* 09/2014-06/2015: Visiting student(Outstanding Engineer Education and Training Program), Information and Communication Engineering, PLA University of Science and Technology (now [Army Engineering University of PLA](https://www.aeu.edu.cn/main.htm)), Nanjing, China;
 
-* 09/2011-06/2014: B.S degree in Information and Computing Science, [University of Science and Technology Beijing](https://www.ustb.edu.cn/), Beijing, China. 
+* 09/2011-06/2014: Undergraduate student, B.S degree in Information and Computing Science, [University of Science and Technology Beijing](https://www.ustb.edu.cn/), Beijing, China. 
 
 ---
 
