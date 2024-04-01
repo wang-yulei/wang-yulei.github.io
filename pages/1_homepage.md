@@ -30,11 +30,13 @@ Address: xxx
 
 ### Education 
 
-* 09/2019-10/2022: Macau University of Science and Technology (MUST); Ph. D. student in Faculty of Information Technology (Supervisor: [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/)); Thesis: Unmanned Aerial Vehicle-assisted Communications for Internet of Remote Things. 
+* 09/2019-02/2024: Ph.D. degree, Computer Technology and Application, [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China (Supervisor: [Prof. Li Feng](https://www.must.edu.mo/scse/staff/fengli) [Qinglin Zhao](https://www.must.edu.mo/scse/staff/zhao-qing-lin));
 
-* 09/2017-06/2019: Master of Science in Information Technology,  Telecommunication Engineering,  Macau University of Science and Technology,  Macau,  China (Supervisor: [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/); Thesis: Unmanned Aerial Vehicle-enabled Internet of Things (UeIoT)). [[PDF]](https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Master_Thesis.pdf)
+* 09/2017-08/2019: M.S. degree, Computer and Information Systems, [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China (Supervisor: [Prof. Li Feng](https://www.must.edu.mo/scse/staff/fengli) [Qinglin Zhao](https://www.must.edu.mo/scse/staff/zhao-qing-lin));
 
-* 09/2013-06/2017: Bachelor of Engineering,  Telecommunication Engineering,  ChongQing University of Post and Telecommunications,  ChongQing,  China; Thesis: Research on the Affine Projection-type Adaptive Filtering Algorithms and Applications. [[PDF]](https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Bach_Thesis.pdf)
+* 09/2014-06/2015: Outstanding Engineer Education and Training Program, Information and Communication Engineering, PLA University of Science and Technology (now [Army Engineering University of PLA](https://www.aeu.edu.cn/main.htm)), Nanjing, China;
+
+* 09/2011-06/2014: B.S degree in Information and Computing Science, [University of Science and Technology Beijing](https://www.ustb.edu.cn/), Beijing, China. 
 
 ---
 
