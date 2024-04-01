@@ -100,6 +100,6 @@ Address: xxx
 ---
 
 ### Awards and Honors
-*  Full Scholarship Grants for Master Students,  MUST,  09/2017 ~ 06/2019
+*  Full Scholarship Grants for Master Students,  MUST,  09/2017 ~ 08/2019.
 
 ---
