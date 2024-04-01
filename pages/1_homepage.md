@@ -28,34 +28,30 @@ Address: xxx
 
 ### Education 
 
-* 09/2019-02/2024: Doctoral student, Ph.D. degree in Computer Technology and Application, [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China (Supervisor: [Prof. Li Feng](https://www.must.edu.mo/scse/staff/fengli), [Prof. Qinglin Zhao](https://www.must.edu.mo/scse/staff/zhao-qing-lin)).
+* Sep., 2019 - Feb., 2024: Doctoral student, Ph.D. degree in Computer Technology and Application, [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China (Supervisor: Prof. [Li Feng](https://www.must.edu.mo/scse/staff/fengli), Prof. [Qinglin Zhao](https://www.must.edu.mo/scse/staff/zhao-qing-lin)).
 
-* 09/2017-08/2019: M.S. degree, Computer and Information Systems, [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China (Supervisor: [Prof. Li Feng](https://www.must.edu.mo/scse/staff/fengli), [Prof. Qinglin Zhao](https://www.must.edu.mo/scse/staff/zhao-qing-lin)).
+* Sep., 2017 - Aug., 2019: M.S. degree, Computer and Information Systems, [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China (Supervisor: Prof. [Li Feng](https://www.must.edu.mo/scse/staff/fengli), Prof.[Qinglin Zhao](https://www.must.edu.mo/scse/staff/zhao-qing-lin)).
 
-* 09/2014-06/2015: Visiting student (Outstanding Engineer Education and Training Program), Information and Communication Engineering, PLA University of Science and Technology (now [Army Engineering University of PLA](https://www.aeu.edu.cn/main.htm)), Nanjing, China.
+* Sep., 2014 - Jun., 2015: Visiting student (Outstanding Engineer Education and Training Program), Information and Communication Engineering, PLA University of Science and Technology (now [Army Engineering University of PLA](https://www.aeu.edu.cn/main.htm)), Nanjing, China.
 
-* 09/2011-06/2014: Undergraduate student, B.S degree in Information and Computing Science, [University of Science and Technology Beijing](https://www.ustb.edu.cn/), Beijing, China. 
+* Sep., 2011 - Jun., 2014: Undergraduate student, B.S degree in Information and Computing Science, [University of Science and Technology Beijing](https://www.ustb.edu.cn/), Beijing, China. 
 
 ---
 
 ### Working Experience
 
-* 10/2016-08/2017: **Administrative Assistant**, [Center for Social Research (CSR)](https://csr.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/).
+* Oct., 2016 - Aug., 2017: **Administrative Assistant**, [Center for Social Research (CSR)](https://csr.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/).
 
-* 07/2025-09/2016: **Senior Data Analyst**, [China Family Panel Studies](https://www.isss.pku.edu.cn/cfps/en/) program, [Institute of Social Science Survey](https://www.isss.pku.edu.cn/english/index.htm), [Peking University](https://english.pku.edu.cn/).
+* Jul., 2015 - Sep., 2016: **Senior Data Analyst**, [China Family Panel Studies](https://www.isss.pku.edu.cn/cfps/en/) program, [Institute of Social Science Survey](https://www.isss.pku.edu.cn/english/index.htm), [Peking University](https://english.pku.edu.cn/).
 
 ---
 
 ### Research Projects
-
-* xx
-
-* 01/2022-05/2022,  **RA**,  "Facilitate Emotion Classification Based on Non-Intrusive Learner via Deep Neural Networks, " the Education University of Hong Kong,  Knowledge Transfer Funds 2021/22.
-
-* 10/2018-10/2022,  **participant**,  "Key Technologies to Enable Ultra Dense Wireless Networks, " Macao Science and Technology Development Fund,  under Project Reference No.: 0026/2018/A1.
-
-* 09/2017-10/2017,  **participant**,  "Large Scale Wireless Ad Hoc Networks: Performance Analysis and Performance Improvement, " Macao Science and Technology Development Fund,  under Project Reference No.: 0096/2013/A3.
   
+* Jan. 2019 – Dec. 2022, **participant**, "物联网环境下多子载波频域竞争技术研究", National Natural Science Foundation of China, Grant No.: 61872452.
+
+* Jan. 2019 – Dec. 2022, **participant**, "基于PoUW区块链的数据处理研究", National Natural Science Foundation of China, Grant No.: 61872451.
+
 ---
 
 ### Publications
