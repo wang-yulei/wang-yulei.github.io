@@ -11,10 +11,9 @@ permalink: /Chinese/
 
 ### 联系方式
 
-电话：(+852) 31202622<br>
-传真：(+852) 27891170<br>
-电邮：ylliu@hkmu.edu.hk<br>
-地址：香港九龙何文田香港都会大学科技学院电子工程及计算机科学系D1126
+<br> 电话：(+86) 15011469984
+<br> 邮箱：<wangyuleinihao@126.com>
+<br> 地址：澳门氹仔伟龙马路澳门科技大学
  
 ### 简介
  
@@ -85,52 +84,26 @@ permalink: /Chinese/
 
 ### 专利
 
-* 2023,  “情绪识别系统及方法”,  香港教育大学,  专利号：HK30074872
+* x
 
 ### 学术活动
 
 #### 国际期刊审稿
 
-* 10/2023 IEEE Internet of Things Journal
-* 09/2023 IEEE TRANSACTIONS ON NETWORK AND SERVICE MANAGEMENT
-* 08/2023 IEEE Wireless Communications Letters
-* 08/2023 IEEE Internet of Things Journal
-* 07/2023 IEEE Transactions on Network and Service Management
-* 03/2023 IEEE Wireless Communications Letters
-* 03/2023 Elsevier Ad Hoc Networks
-* 01/2023 IEEE Internet of Things Journal
-* 04/2022 IEEE Wireless Communications Letters
-* 03/2022 Elsevier Ad Hoc Networks
-* 01/2022 IEEE Internet of Things Journal
-* 07/2022 Information Processing and Management
-* 05/2022 Information Processing and Management
-* 10/2021 IEEE Internet of Things Journal
-* 02/2021 Elsevier The Journal of the Franklin Institute 
-* 12/2020 Elsevier Ad Hoc Networks
-* 03/2020 IEEE Communication Magazine
-* 12/2019 IEEE Access
-* 08/2018 IEEE Communication Magazine
+* [Elsevier Future Generation Computer Systems (FGCS)](https://www.sciencedirect.com/journal/future-generation-computer-systems)
+* [IEEE Wireless Communications Letters (WCL)](https://www.comsoc.org/publications/journals/ieee-wcl)
+* [TSP Computers, Materials & Continua (CMC)](https://www.techscience.com/journal/cmc)
+* [Wiley Engineering Reports (ENGR)](https://onlinelibrary.wiley.com/journal/25778196)
 
 #### 国际会议审稿
 
-* 12/2023 IEEE Wireless Communications and Networking Conference (WCNC) - TPC member
-* 08/2023 IEEE Vehicular Technology Conference (VTC) - TPC member
-* 08/2022 IEEE Wireless Communications and Networking Conference (WCNC) - TPC member
-* 08/2022 IEEE 27th International Workshop on Computer-Aided Modeling and Design of Communication Links and Networks (CAMAD) - TPC member
-* 08/2022 The 9th International Conference on Behavioural and Social Computing
-* 06/2021 IEEE Wireless Communications and Networking Conference (WCNC) - TPC member
-* 06/2021 IEEE Vehicular Technology Conference (VTC) - TPC member
-* 12/2020 IEEE Wireless Communications and Networking Conference (WCNC)
-* 12/2020 IEEE Vehicular Technology Conference (VTC)
-* 04/2020 IEEE Vehicular Technology Conference (VTC)
-* 10/2019 IEEE International Conference on Mobile Ad-Hoc and Sensor Networks (MSN) 
+* [International Conference on Frontiers of Electronics, Information and Computation Technologies (ICFEICT 2024)](https://www.feict.net/)
+* [2024 IEEE Congress on Evolutionary Computation (IEEE CEC 2024)](https://www.aconf.org/conf_193157.html)
 
 ---
 
 ### 荣誉获奖
-*  金奖/评审团选择奖/特别奖,  “通过深度神经网络促进基于非侵入性学习者数据的情绪分类”,  第七届国际发明加拿大创新大赛 (iCAN 2022),  2022
-*  旅行奖获奖者,  Sensors Networks,  Sensors,  MDPI,  2021
-*  博士全额奖学金, 澳门科技大学, 2019年9月 ~ 2022年6月
-*  硕士全额奖学金, 澳门科技大学, 2017年9月 ~ 2019年6月
+
+*  硕士全额奖学金, 澳门科技大学, 2017年9月 ~ 2019年8月
 
 ---
