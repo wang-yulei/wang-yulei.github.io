@@ -48,11 +48,7 @@ Address: xxx
 
 ### Research Projects
 
-* 12/2023-04/2025,  **PI**,  "SAGIN Empowered Web 3.0: Scalable Decentralized Network Design, " HKMU R&D Fund,  HK$ 200, 000,  under Project Reference No.: RD/2023/2.22.
-
-* 01/2023-06/2025,  **Co-I**,  “Intelligent Data-driven Wireless Networks, ” HKMU R&D Fund,  HK$ 1, 480, 566.
-
-* 10/2023-03/2025,  **Co-I**,  “Developing Real-Time Intelligent Video Surveillance Systems: From Algorithm Design to Performance Optimization, ” HKMU R&D Fund,  HK$ 200, 000.
+* xx
 
 * 01/2022-05/2022,  **RA**,  "Facilitate Emotion Classification Based on Non-Intrusive Learner via Deep Neural Networks, " the Education University of Hong Kong,  Knowledge Transfer Funds 2021/22.
 
