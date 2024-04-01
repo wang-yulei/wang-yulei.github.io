@@ -36,7 +36,9 @@ permalink: /Chinese/
 
 * 2022.1 - 2022.5: **科研助理**,  香港教育大学
   
-* 2022.6 - 现在: [**讲师**](https://www.hkmu.edu.hk/st/sc/people/key-staff/staff-profile/?email=ylliu&unit=ST&po=N),  科技学院,  香港都会大学
+* 2016年10月 - 2017年08月: **行政助理**, [社会研究中心 (CSR)](https://csr.pku.edu.cn/), [北京大学](https://pku.edu.cn/).
+
+* 2015年07月 - 2016年09月: **高级数据分析师**, [中国家庭追踪调查](https://www.isss.pku.edu.cn/cfps/)项目, [社会科学调查中心](https://www.isss.pku.edu.cn/), [北京大学](https://pku.edu.cn/).
   
 ---
 
@@ -44,43 +46,31 @@ permalink: /Chinese/
 
 * 2019年01月 – 2022年12月，**参与人**, "物联网环境下多子载波频域竞争技术研究"，中国国家自然科学基金，基金编号：61872452。
 
-* 2019年01月 – 2022年12月，**参与人**, “基于PoUW区块链的数据处理研究”，中国国家自然科学基金，基金编号：61872451。
+* 2019年01月 – 2022年12月，**参与人**, “基于PoUW区块链的数据处理研究”，中国国家自然科学基金，基金编号：61872451
+
 ---
 
 
 ### 学术论文
+\* 是通信作者。
+#### 期刊论文
 
-#### 期刊 (发表)
+* **王玉磊**, 赵庆林\*, 姚舒敏, 周孟初, 冯丽, 和张佩云, “Performance Analysis of Node-Assisted WiFi Backscatter Communication: A Stochastic Geometry Approach,” *IEEE Internet of Things Journal*, accepted, DOI: 10.1109/JIOT.2024.3384032. (SCI-indexed, **JCR Q1, 中科院1区Top, IF = 10.6** in 2024)
 
-* **刘亚林**,  戴弘宁,  王曲北剑,  Om Jee Pandey,  付雅茹, Ning Zhang,  Dusit Niyato,  & 李至冲,  "空天地一体化网络：基于球面随机几何的上行链路连通性分析",  *IEEE Journal on Selected Areas in Communications* **(SCI IF=16.4 in 2022, JCR Q1)**,  2024,  DOI: 10.1109/JSAC.2024.3365891. [[链接]](https://ieeexplore.ieee.org/document/10438999).
 
-* **刘亚林**,  王秋,  戴弘宁,  付雅茹,  Ning Zhang,  & 李至冲,  "无人机辅助无线回程网络：上行链路传输的连通性分析, " *IEEE Transactions on Vehicular Technology* **(SCI IF=6.8 in 2022, JCR Q1)**,  vol. 72,  no. 9,  pp. 12195-12207,  Sept. 2023,  doi: 10.1109/TVT.2023.3268025. [[链接]](https://ieeexplore.ieee.org/document/10104142)
+* **王玉磊**,  冯丽\*, 姚舒敏, 梁轰，石浩谞 和陈玉强, "[Outage Probability Analysis for D2D-Enabled Heterogeneous Cellular Networks with Exclusion Zone: A Stochastic Geometry Approach](https://www.techscience.com/CMES/v138n1/54254)," *Computer Modeling in Engineering & Sciences*, May 2023. (SCI-indexed, JCR Q3, IF = 2.4 in 2023)
 
-*  **刘亚林**, 戴弘宁, 王皓, Muhammad Imran, 和 Nadra Guizani, “基于无人机的无线供能式物联网：机遇和挑战（英文）, ” *IEEE Network* **(SCI IF=9.3 in 2022, JCR Q1)**, 第36卷, 第2期, pp. 146-152, 2022年三月/四月,  doi: 10.1109/MNET.013.2000385. [[链接]](https://ieeexplore.ieee.org/document/9762455)
-
-* 车奥林,  **刘亚林**,  Hong Xiao,  王皓,  Ke Zhang,  和 戴弘宁, “增强数据选择器发起基于文本的验证码攻击（英文）”, *Security and Communication Networks*,  卷 2021, 2021年,  doi：10.1155/2021/9930608. [[链接]](https://www.hindawi.com/journals/scn/2021/9930608/)
-
-* **刘亚林**, 戴弘宁, 王曲北剑, Mahendra K. Shukla, 和 Muhammad Imran, “无人机赋能万物互联：机遇和挑战（英文）, ” *计算机通信(Computer communications)* **(SCI IF=6 in 2022, JCR Q1)**, 第155卷, pp. 66-83, 2020年3月. [[链接]](https://www.sciencedirect.com/science/article/pii/S0140366419318754)
-
-*  **刘亚林**, 戴弘宁, 王皓,  Muhammad Imran, Xiaofen Wang, 和 Muhammad Shoaib, “面对物联网场景下基于无人机的无线供能式数据采集方案（英文）, ” *计算机通信(Computer communications)* **(SCI IF=6 in 2022, JCR Q1)**, 第155卷, pp. 184-196, 2020年3月,  doi: 10.1016/j.comcom.2020.03.020. [[链接]](https://www.sciencedirect.com/science/article/pii/S0140366419304852)
-
-*  **刘亚林**, 戴弘宁, 和 王曲北剑, “无人机辅助的物联网通信技术及其应用, ” *物联网学报（中国）*, 第3卷, 第四期, pp. 48-55, 2019年12月. [[原文]](https://www.henrylab.net/wp-content/uploads/2020/02/UEIoT-CIoTJ19.pdf)
- 
+* 金童, 郭剑岚\*, 林良誉, **王玉磊**, 和陈云贵, "[Performance Analysis of Synchronous Multilink MAC Protocol with Automatic Repeat Request](https://www.hindawi.com/journals/misy/2022/4049008/)," *Mobile Information Systems*, vol. 2022, pp. 1–11, Sep. 2022. (SCI-indexed, JCR Q3, IF = 1.9 in 2022)
+                                
 ---
 
 #### 会议文章
 
-* **刘亚林**, 戴弘宁, 和 Ning zhang, “非地面网络中无人机对卫星通信的连接性分析（英文版）, ” *IEEE全球通信会议(GLEBECOM)* **(EI and CCF C conference)**, 西班牙马德里, 在线会议, 2021年12月7日至11日,  doi: 10.1109/GLOBECOM46510.2021.9685811. [[PDF]](https://github.com/yalin-liu/yalin-liu.github.io/blob/ac92780f706900d9da2079947c9eeec5fb317105/papers/A2S%20GloCom.pdf)
+* **王玉磊**, 赵庆林\*, 姚舒敏, 冯丽, 梁轰,  "[Performance Modeling of Tags-to-WiFi Transmissions for Contention-based WiFi Backscatter Networks](https://ieeexplore.ieee.org/document/10004070)," *2022 IEEE International Conference on Networking, Sensing and Control (ICNSC)* , Dec. 2022, pp. 1–6. [[PDF]]
 
-* 王曲北剑, **刘亚林**, 戴弘宁, Muhammad Imran, 和 Nidal Nasser, “空中之耳：防止空中窃听的地面移动干扰（英文版）, ” *IEEE全球通信会议(GLEBECOM)* **(EI and CCF C conference)**, 西班牙马德里, 在线会议, 2021年12月7日至11日,  doi: 10.1109/GLOBE-COM46510.2021.9685471. 
+<!--### 专利
 
-* **刘亚林**, 戴弘宁, Muhammad Imran, 和 Nidal Nasser, “地对无人机通信网络：基于随机几何的性能分析（英文版）, ” *IEEE国际通信会议(GLEBECOM)* **(EI and CCF C conference)**, 加拿大魁北克蒙特利尔, 在线会议, 2021年6月14日至23日,  doi: 10.1109/ICC42927.2021.9500746. [[原文]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf)
-
-* **刘亚林**, 戴弘宁, 彭宇阳, 和 王皓, “海报：带定向无线能量传输的支持无人机的数据采集方案”, *嵌入式无线系统和网络国际会议（EWSN）*, 中国北京, 2019年2月25日至27日. [[原文]](https://github.com/yalin-liu/yalin-academic/blob/517ff5d24a5fa74da5a7ebe9110e15de7d988c01/papers/EWSN-liu.pdf)
-
-### 专利
-
-* x
+* x-->
 
 ### 学术活动
 
