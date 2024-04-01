@@ -65,68 +65,48 @@ Address: xxx
 ### Publications
 #### Journal Articles
 
-* **Yulei Wang**,  Li Feng*, Shumin Yao, Hong Liang, Haoxu Shi and Yuqiang Chen, "[Outage Probability Analysis for D2D-Enabled Heterogeneous Cellular Networks with Exclusion Zone: A Stochastic Geometry Approach](https://www.techscience.com/CMES/v138n1/54254)," *Computer Modeling in Engineering & Sciences*, May 2023. (SCI-indexed, JCR Q3, IF = 2.4 in 2023)
+* **Yulei Wang**,  Li Feng*, Shumin Yao, Hong Liang, Haoxu Shi and Yuqiang Chen, "[Outage Probability Analysis for D2D-Enabled Heterogeneous Cellular Networks with Exclusion Zone: A Stochastic Geometry Approach](https://www.techscience.com/CMES/v138n1/54254)", *Computer Modeling in Engineering & Sciences*, May 2023. (SCI-indexed, JCR Q3, IF = 2.4 in 2023)
 
 * Tong Jin, Jianlan Guo*, Liangyu Lin, **Yulei Wang**, and Yungui Chen, "[Performance Analysis of Synchronous Multilink MAC Protocol with Automatic Repeat Request](https://www.hindawi.com/journals/misy/2022/4049008/)", *Mobile Information Systems*, vol. 2022, pp. 1–11, Sep. 2022. (SCI-indexed, JCR Q3, IF = 1.9 in 2022)
-                              
+                                
 
 #### Conference Papers
 
 * **Yulei Wang**, Qinglin Zhao*, Shumin Yao, Li Feng, and Hong Liang,  "[Performance Modeling of Tags-to-WiFi Transmissions for Contention-based WiFi Backscatter Networks](https://ieeexplore.ieee.org/document/10004070)" *2022 IEEE International Conference on Networking, Sensing and Control (ICNSC)*, Dec. 2022, pp. 1–6. [[PDF]]
 
+* Qubeijian Wang,  **Yalin Liu**,  HongNing Dai,  Muhammad Imran,  & Nidal Nasser,  "Ear in the Sky: Terrestrial Mobile Jamming to Prevent Aerial Eavesdropping, " *IEEE Global Communications Conference (GLEBECOM)* **(EI and CCF C conference)**,  Madrid,  Spain,  virtual conference,  7-11 December 2021,  doi: 10.1109/GLOBE-COM46510.2021.9685471..
+
+* **Yalin Liu**,  HongNing Dai,  Muhammad Imran,  & Nidal Nasser,  "Ground-to-UAV Communication Network: Stochastic Geometry-based Performance Analysis, " *IEEE International Conference of Communications (ICC)* **(EI and CCF C conference)**,  Montreal,  Quebec,  Canada,  virtual conference,  June 14-23,  2021,  doi: 10.1109/ICC42927.2021.9500746..[[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf)
+
+* **Yalin Liu**,  HongNing Dai,  Yuyang Peng,  & Hao Wang,  "Poster: UAV-enabled Data Acquisition Scheme with Directional Wireless Energy Transfer, " *International Conference on Embedded Wireless Systems and Networks (EWSN)*,  Beijing,  China,  February 25-27,  2019. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/517ff5d24a5fa74da5a7ebe9110e15de7d988c01/papers/EWSN-liu.pdf)
+
 ### Patents
 
-* 2023,  “Emotion recognition system and method”,  The Education University of Hong Kong,  under patent No. HK30074872
+* xx
 
 ### Professional Qualifications and Activities
 
 
 #### Editor Activities for International Journals
 
-* 2023 Co-guest Editor for MDPI Electronics
+* xx
 
 #### Reviewing Activities for International Journals
 
-* 10/2023 IEEE Internet of Things Journal
-* 09/2023 IEEE TRANSACTIONS ON NETWORK AND SERVICE MANAGEMENT
-* 08/2023 IEEE Wireless Communications Letters
-* 08/2023 IEEE Internet of Things Journal
-* 07/2023 IEEE Transactions on Network and Service Management
-* 03/2023 IEEE Wireless Communications Letters
-* 03/2023 Elsevier Ad Hoc Networks
-* 01/2023 IEEE Internet of Things Journal
-* 04/2022 IEEE Wireless Communications Letters
-* 03/2022 Elsevier Ad Hoc Networks
-* 01/2022 IEEE Internet of Things Journal
-* 07/2022 Information Processing and Management
-* 05/2022 Information Processing and Management
-* 10/2021 IEEE Internet of Things Journal
-* 02/2021 Elsevier The Journal of the Franklin Institute 
-* 12/2020 Elsevier Ad Hoc Networks
-* 03/2020 IEEE Communication Magazine
-* 12/2019 IEEE Access
-* 08/2018 IEEE Communication Magazine
+* Elsevier [Future Generation Computer Systems (FGCS)](https://www.sciencedirect.com/journal/future-generation-computer-systems)
+* IEEE [Wireless Communications Letters (WCL)](https://www.comsoc.org/publications/journals/ieee-wcl)
+* TSP [Computers, Materials & Continua (CMC)](https://www.techscience.com/journal/cmc)
+* Wiley [Engineering Reports (ENGR)](https://onlinelibrary.wiley.com/journal/25778196)
 
+- Reviewing Activities for International Conferences:
 #### Reviewing Activities for International Conferences
 
-* 12/2023 IEEE Wireless Communications and Networking Conference (WCNC) - TPC member
-* 08/2023 IEEE Vehicular Technology Conference (VTC) - TPC member
-* 08/2022 IEEE Wireless Communications and Networking Conference (WCNC) - TPC member
-* 08/2022 IEEE 27th International Workshop on Computer-Aided Modeling and Design of Communication Links and Networks (CAMAD) - TPC member
-* 08/2022 The 9th International Conference on Behavioural and Social Computing
-* 06/2021 IEEE Wireless Communications and Networking Conference (WCNC) - TPC member
-* 06/2021 IEEE Vehicular Technology Conference (VTC) - TPC member
-* 12/2020 IEEE Wireless Communications and Networking Conference (WCNC)
-* 12/2020 IEEE Vehicular Technology Conference (VTC)
-* 04/2020 IEEE Vehicular Technology Conference (VTC)
-* 10/2019 IEEE International Conference on Mobile Ad-Hoc and Sensor Networks (MSN) 
+* [International Conference on Frontiers of Electronics, Information and Computation Technologies (ICFEICT 2024)](https://www.feict.net/)
+* [2024 IEEE Congress on Evolutionary Computation (IEEE CEC 2024)](https://www.aconf.org/conf_193157.html)
 
 ---
 
 ### Awards and Honors
-*  Gold Medal/Jury’s Choice Award/Special Award,  the invention “Facilitating Emotion Classification Based on Non-Intrusive Learner Data via Deep Neural Networks”,  iCAN 2022.
-*  Travel Award In Sensors Networks Winner,  Sensors,  MDPI,  2021
-*  Full Scholarship Grants for PhD Students,  MUST,  09/2019 ~ 06/2022
 *  Full Scholarship Grants for Master Students,  MUST,  09/2017 ~ 06/2019
 
 ---
