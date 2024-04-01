@@ -31,7 +31,7 @@ permalink: /homepage/
 
 * Sep., 2019 - Feb., 2024: Doctoral student, Ph.D. degree in Computer Technology and Application, [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China (Supervisor: Prof. [Li Feng](https://www.must.edu.mo/scse/staff/fengli), Prof. [Qinglin Zhao](https://www.must.edu.mo/scse/staff/zhao-qing-lin)).
 
-* Sep., 2017 - Aug., 2019: M.S. degree, Computer and Information Systems, [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China (Supervisor: Prof. [Li Feng](https://www.must.edu.mo/scse/staff/fengli), Prof.[Qinglin Zhao](https://www.must.edu.mo/scse/staff/zhao-qing-lin)).
+* Sep., 2017 - Aug., 2019: M.S. degree, Computer and Information Systems, [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China (Supervisor: Prof. [Li Feng](https://www.must.edu.mo/scse/staff/fengli), Prof. [Qinglin Zhao](https://www.must.edu.mo/scse/staff/zhao-qing-lin)).
 
 * Sep., 2014 - Jun., 2015: Visiting student (Outstanding Engineer Education and Training Program), Information and Communication Engineering, PLA University of Science and Technology (now [Army Engineering University of PLA](https://www.aeu.edu.cn/main.htm)), Nanjing, China.
 
