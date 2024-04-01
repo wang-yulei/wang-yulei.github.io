@@ -38,12 +38,11 @@ Address: xxx
 
 ---
 
-### Working Experience 
+### Working Experience
 
-* 01/2022-05/2022: **Research Assistant**,  the Education University of Hong Kong
-  
-* 06/2022-present: [**Lecturer**](https://www.hkmu.edu.hk/st/sc/people/key-staff/staff-profile/?email=ylliu&unit=ST&po=N),  School of Science and Technology,  Hong Kong Metropolitan University
-  
+* 10/2016-08/2017: **Administrative Assistant**, [Center for Social Research (CSR)](https://csr.pku.edu.cn/en/), [Peking University](https://www.pku.edu.cn/);
+
+* 07/2025-09/2016: **Senior Data Analyst**, [China Family Panel Studies](https://www.isss.pku.edu.cn/cfps/en/) program, [Institute of Social Science Survey](https://www.isss.pku.edu.cn/english/index.htm), [Peking University](https://www.pku.edu.cn/).
 ---
 
 ### Research Projects
