@@ -94,7 +94,6 @@ Address: xxx
 * TSP [Computers, Materials & Continua (CMC)](https://www.techscience.com/journal/cmc)
 * Wiley [Engineering Reports (ENGR)](https://onlinelibrary.wiley.com/journal/25778196)
 
-- Reviewing Activities for International Conferences:
 #### Reviewing Activities for International Conferences
 
 * [International Conference on Frontiers of Electronics, Information and Computation Technologies (ICFEICT 2024)](https://www.feict.net/)
