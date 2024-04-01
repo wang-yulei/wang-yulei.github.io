@@ -34,9 +34,9 @@ permalink: /Chinese/
 
 ### 工作经验
   
-* 2016年10月 - 2017年08月: **行政助理**, [社会研究中心 (CSR)](https://csr.pku.edu.cn/), [北京大学](https://pku.edu.cn/).
+* 2016年10月 - 2017年08月：**行政助理**，[社会研究中心 (CSR)](https://csr.pku.edu.cn/)，[北京大学](https://pku.edu.cn/)。
 
-* 2015年07月 - 2016年09月: **高级数据分析师**, [中国家庭追踪调查](https://www.isss.pku.edu.cn/cfps/)项目, [社会科学调查中心](https://www.isss.pku.edu.cn/), [北京大学](https://pku.edu.cn/).
+* 2015年07月 - 2016年09月：**高级数据分析师**，[中国家庭追踪调查](https://www.isss.pku.edu.cn/cfps/)项目，[社会科学调查中心](https://www.isss.pku.edu.cn/)，[北京大学](https://pku.edu.cn/)。
   
 ---
 
