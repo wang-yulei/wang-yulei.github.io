@@ -11,18 +11,20 @@ permalink: /homepage/
 
 ### Contact
 
-Tel: (+852) 31202622<br> 
-Fax: (+852) 27891170<br> 
-Email: ylliu@hkmu.edu.hk<br> 
-Address: D1126,  Department of Electronic Engineering and Computer Science,  School of Science and Technology,  Hong Kong Metropolitan University,  Ho Man Tin,  Kowloon,  Hong Kong
+Tel: (+852) 31202622<br>
+Email: wangyuleinihao@126.com<br> 
+Address: xxx
 
 ### Professional Profile
  
 <br>**Yalin Liu** is currently [a lecturer](https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=ylliu&unit=S&T&po=N) at the School of Science and Technology,  Hong Kong Metropolitan University. She received her Ph.D degree from Macau University of Science and Technology in 2022. From Jan. 2022 to May 2022,  she worked as a research assistant at the Education University of Hong Kong. Her research interests include Wireless Communications,  Non-terrestrial Networks,  Stochastic Geometry,  Network Modeling,  and Network Optimization. She has served as a TPC member for some conferences (such as *IEEE WCNC* and *IEEE VTC*) and a reviewer for various IEEE journals. She is currently serving as a Co-guest Editor for a special issue of *MDPI Electronics*. <br>
 
+<br> **Yulei Wang** received his Ph.D. in Computer Technology and Application from [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China, in Feb., 2024, M.S. degree in Computer and Information Systems from [MUST](https://www.must.edu.mo/) in Aug., 2019, and B.S. degree in Information and Computing Science from [University of Science and Technology Beijing](https://www.ustb.edu.cn/), Beijing, China, in 2015. 
 
-<br> **Email:** <ylliu@hkmu.edu.hk>  &emsp; 
-<br> **Follow me:** [HKMU Scholar](https://scholars.hkmu.edu.hk/en/persons/yalin-liu/publications/) | [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) | [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act)  | [ORCID](https://orcid.org/0000-0003-2870-4598) &emsp;
+<br> His research interests include wireless networks, semantic communication and stochastic geometry.
+
+<br> **Email:** <wangyuleinihao@126.com>  &emsp; 
+<br> **Follow me:** [[Google Scholar](https://scholar.google.com/citations?user=jI5bF5QAAAAJ&hl=zh-CN) | [ORCID](https://orcid.org/0000-0002-6246-7621) &emsp;
 
 ---
 

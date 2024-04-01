@@ -15,11 +15,11 @@ permalink: /:year/:month/:day/:title/
 # this is the url root of the view source link on the footer page.
 viewsourceroot: https://github.com/yalin-liu/Yalin_Liu.gitHub.io/blob/main/
 # this is the url root of the create page link on the footer page.
-newsourceroot: https://github.com/yalin-liu/Yalin_Liu.gitHub.io/
+newsourceroot: https://github.com/wang-yulei/wang-yulei.github.io/
 #########################################
 # for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com. 
 # duoshuo_shortname: mengding
-duoshuo_url: "https://github.com/yalin-liu/"
+duoshuo_url: "https://github.com/wang-yulei/"
 # disqus.com commenting system. please note that it is exclusive with duoshuo.com
 #disqus_shortname: pfzuo
 #disqus_url: "http://pfzuo.github.io"
