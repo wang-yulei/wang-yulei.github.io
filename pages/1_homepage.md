@@ -12,7 +12,7 @@ permalink: /homepage/
 ### Contact
 
 Tel: (+852) 31202622<br>
-Email: wangyuleinihao@126.com<br> 
+Email: <wangyuleinihao@126.com><br> 
 Address: xxx
 
 ### Professional Profile
