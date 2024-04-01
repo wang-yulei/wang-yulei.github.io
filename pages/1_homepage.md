@@ -68,13 +68,8 @@ Address: xxx
 
 #### Conference Papers
 
-* **Yulei Wang**, Qinglin Zhao, Shumin Yao, Li Feng, and Hong Liang,  "[Performance Modeling of Tags-to-WiFi Transmissions for Contention-based WiFi Backscatter Networks](https://ieeexplore.ieee.org/document/10004070), " *2022 IEEE International Conference on Networking, Sensing and Control (ICNSC)* , Dec. 2022, pp. 1–6. [[PDF]]
+* **Yulei Wang**, Qinglin Zhao, Shumin Yao, Li Feng, and Hong Liang,  "[Performance Modeling of Tags-to-WiFi Transmissions for Contention-based WiFi Backscatter Networks](https://ieeexplore.ieee.org/document/10004070)", *2022 IEEE International Conference on Networking, Sensing and Control (ICNSC)* , Dec. 2022, pp. 1–6. [[PDF]]
 
-* Qubeijian Wang,  **Yalin Liu**,  HongNing Dai,  Muhammad Imran,  & Nidal Nasser,  "[Performance Modeling of Tags-to-WiFi Transmissions for Contention-based WiFi Backscatter Networks](https://ieeexplore.ieee.org/document/10004070), " *IEEE Global Communications Conference (GLEBECOM)* **(EI and CCF C conference)**,  Madrid,  Spain,  virtual conference,  7-11 December 2021,  doi: 10.1109/GLOBE-COM46510.2021.9685471..
-
-* **Yalin Liu**,  HongNing Dai,  Muhammad Imran,  & Nidal Nasser,  "Ground-to-UAV Communication Network: Stochastic Geometry-based Performance Analysis, " *IEEE International Conference of Communications (ICC)* **(EI and CCF C conference)**,  Montreal,  Quebec,  Canada,  virtual conference,  June 14-23,  2021,  doi: 10.1109/ICC42927.2021.9500746..[[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf)
-
-* **Yalin Liu**,  HongNing Dai,  Yuyang Peng,  & Hao Wang,  "Poster: UAV-enabled Data Acquisition Scheme with Directional Wireless Energy Transfer, " *International Conference on Embedded Wireless Systems and Networks (EWSN)*,  Beijing,  China,  February 25-27,  2019. [[PDF]](https://github.com/yalin-liu/yalin-academic/blob/517ff5d24a5fa74da5a7ebe9110e15de7d988c01/papers/EWSN-liu.pdf)
 
 ### Patents
 
