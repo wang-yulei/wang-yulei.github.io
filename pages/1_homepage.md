@@ -70,7 +70,7 @@ Address: xxx
 
 * **Yulei Wang**, Qinglin Zhao*, Shumin Yao, Li Feng, and Hong Liang,  "[Performance Modeling of Tags-to-WiFi Transmissions for Contention-based WiFi Backscatter Networks](https://ieeexplore.ieee.org/document/10004070)" *2022 IEEE International Conference on Networking, Sensing and Control (ICNSC)*, Dec. 2022, pp. 1–6. [[PDF]]
 
-* Qubeijian Wang,  **Yalin Liu**,  HongNing Dai,  Muhammad Imran,  & Nidal Nasser,  "Ear in the Sky: Terrestrial Mobile Jamming to Prevent Aerial Eavesdropping, " *IEEE Global Communications Conference (GLEBECOM)* **(EI and CCF C conference)**,  Madrid,  Spain,  virtual conference,  7-11 December 2021,  doi: 10.1109/GLOBE-COM46510.2021.9685471..
+* Qubeijian Wang,  **Yalin Liu**,  HongNing Dai,  Muhammad Imran,  & Nidal Nasser,  "[Performance Modeling of Tags-to-WiFi Transmissions for Contention-based WiFi Backscatter Networks](https://ieeexplore.ieee.org/document/10004070), " *IEEE Global Communications Conference (GLEBECOM)* **(EI and CCF C conference)**,  Madrid,  Spain,  virtual conference,  7-11 December 2021,  doi: 10.1109/GLOBE-COM46510.2021.9685471..
 
 * **Yalin Liu**,  HongNing Dai,  Muhammad Imran,  & Nidal Nasser,  "Ground-to-UAV Communication Network: Stochastic Geometry-based Performance Analysis, " *IEEE International Conference of Communications (ICC)* **(EI and CCF C conference)**,  Montreal,  Quebec,  Canada,  virtual conference,  June 14-23,  2021,  doi: 10.1109/ICC42927.2021.9500746..[[PDF]](https://github.com/yalin-liu/yalin-academic/blob/4c682e1a003864ffb4a826131beab179963baa59/papers/SGG2U.pdf)
 
