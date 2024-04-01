@@ -56,9 +56,8 @@ permalink: /homepage/
 ---
 
 ### Publications
-#### Journal Articles
-
 <br> \* is Correspoding Author.
+#### Journal Articles
 
 * **Yulei Wang**, Qinglin Zhao\*, Shumin Yao, MengChu Zhou, Li Feng, and Peiyun Zhang, “Performance Analysis of Node-Assisted WiFi Backscatter Communication: A Stochastic Geometry Approach,” *IEEE Internet of Things Journal*, accepted, DOI: 10.1109/JIOT.2024.3384032. (SCI-indexed, **JCR Q1, 中科院1区Top, IF = 10.6** in 2024)
 
