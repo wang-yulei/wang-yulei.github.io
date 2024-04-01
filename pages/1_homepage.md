@@ -71,8 +71,6 @@ permalink: /homepage/
 
 * **Yulei Wang**, Qinglin Zhao\*, Shumin Yao, Li Feng, and Hong Liang,  "[Performance Modeling of Tags-to-WiFi Transmissions for Contention-based WiFi Backscatter Networks](https://ieeexplore.ieee.org/document/10004070)," *2022 IEEE International Conference on Networking, Sensing and Control (ICNSC)* , Dec. 2022, pp. 1–6. [[PDF]]
 
-* \* is Correspoding Author.
-
 ### Patents
 
 * xx
