@@ -26,9 +26,9 @@ permalink: /Chinese/
 ---
 ### 教育背景
 
-* 2019年09月 - 2024年02月：理学博士，[澳门科技大学](https://www.must.edu.mo/), 计算机技术及其应用专业（导师：[冯丽](https://www.must.edu.mo/scse/staff/fengli)教授，[赵庆林](https://www.must.edu.mo/scse/staff/zhao-qing-lin)教授）。
+* 2019年09月 - 2024年02月：理学博士，[澳门科技大学](https://www.must.edu.mo/)， 计算机技术及其应用专业（导师：[冯丽](https://www.must.edu.mo/scse/staff/fengli)教授，[赵庆林](https://www.must.edu.mo/scse/staff/zhao-qing-lin)教授）。
 
-* 2017年09月 - 2019年08月：理学硕士，[澳门科技大学](https://www.must.edu.mo/), 计算机与资讯系统专业（导师：[冯丽](https://www.must.edu.mo/scse/staff/fengli)教授，[赵庆林](https://www.must.edu.mo/scse/staff/zhao-qing-lin)教授）。
+* 2017年09月 - 2019年08月：理学硕士，[澳门科技大学](https://www.must.edu.mo/)， 计算机与资讯系统专业（导师：[冯丽](https://www.must.edu.mo/scse/staff/fengli)教授，[赵庆林](https://www.must.edu.mo/scse/staff/zhao-qing-lin)教授）。
 
 * 2014年09月 - 2015年06月：交流学生（卓越工程师教育培养计划）， 解放军理工大学（现名[陆军工程大学](https://www.aeu.edu.cn/main.htm)），信息与通信工程专业。
 
@@ -46,9 +46,9 @@ permalink: /Chinese/
 
 ### 研究项目
 
-* 2019年01月 – 2022年12月，**参与人**, "物联网环境下多子载波频域竞争技术研究"，中国国家自然科学基金，基金编号：61872452。
+* 2019年01月 – 2022年12月：**参与人**，"物联网环境下多子载波频域竞争技术研究"，中国国家自然科学基金，基金编号：61872452。
 
-* 2019年01月 – 2022年12月，**参与人**, “基于PoUW区块链的数据处理研究”，中国国家自然科学基金，基金编号：61872451。
+* 2019年01月 – 2022年12月：**参与人**，“基于PoUW区块链的数据处理研究”，中国国家自然科学基金，基金编号：61872451。
 
 ---
 
@@ -57,18 +57,18 @@ permalink: /Chinese/
 \* 是通信作者。
 #### 期刊论文
 
-* **王玉磊**, 赵庆林\*, 姚舒敏, 周孟初, 冯丽, 和张佩云, “Performance Analysis of Node-Assisted WiFi Backscatter Communication: A Stochastic Geometry Approach,” *IEEE Internet of Things Journal*, accepted, DOI: 10.1109/JIOT.2024.3384032. (SCI-indexed, **JCR Q1, 中科院1区Top, IF = 10.6** in 2024)
+* **王玉磊**, 赵庆林\*, 姚舒敏, 周孟初, 冯丽 和张佩云, “Performance Analysis of Node-Assisted WiFi Backscatter Communication: A Stochastic Geometry Approach,” *IEEE Internet of Things Journal*, accepted, DOI: 10.1109/JIOT.2024.3384032. (SCI-indexed, **JCR Q1, 中科院1区Top, IF = 10.6** in 2024)
 
 
-* **王玉磊**,  冯丽\*, 姚舒敏, 梁轰，石浩谞 和陈玉强, "[Outage Probability Analysis for D2D-Enabled Heterogeneous Cellular Networks with Exclusion Zone: A Stochastic Geometry Approach](https://www.techscience.com/CMES/v138n1/54254)," *Computer Modeling in Engineering & Sciences*, May 2023. (SCI-indexed, JCR Q3, IF = 2.4 in 2023)
+* **王玉磊**,  冯丽\*, 姚舒敏, 梁轰，石浩谞 和陈俞强, "[Outage Probability Analysis for D2D-Enabled Heterogeneous Cellular Networks with Exclusion Zone: A Stochastic Geometry Approach](https://www.techscience.com/CMES/v138n1/54254)," *Computer Modeling in Engineering & Sciences*, May 2023. (SCI-indexed, JCR Q3, IF = 2.4 in 2023)
 
-* 金童, 郭剑岚\*, 林良誉, **王玉磊**, 和陈云贵, "[Performance Analysis of Synchronous Multilink MAC Protocol with Automatic Repeat Request](https://www.hindawi.com/journals/misy/2022/4049008/)," *Mobile Information Systems*, vol. 2022, pp. 1–11, Sep. 2022. (SCI-indexed, JCR Q3, IF = 1.9 in 2022)
+* 金童, 郭剑岚\*, 林良誉, **王玉磊** 和陈云贵, "[Performance Analysis of Synchronous Multilink MAC Protocol with Automatic Repeat Request](https://www.hindawi.com/journals/misy/2022/4049008/)," *Mobile Information Systems*, vol. 2022, pp. 1–11, Sep. 2022. (SCI-indexed, JCR Q3, IF = 1.9 in 2022)
                                 
 ---
 
 #### 会议文章
 
-* **王玉磊**, 赵庆林\*, 姚舒敏, 冯丽, 梁轰,  "[Performance Modeling of Tags-to-WiFi Transmissions for Contention-based WiFi Backscatter Networks](https://ieeexplore.ieee.org/document/10004070)," *2022 IEEE International Conference on Networking, Sensing and Control (ICNSC)* , Dec. 2022, pp. 1–6. [[PDF]]
+* **王玉磊**, 赵庆林\*, 姚舒敏, 冯丽 和梁轰,  "[Performance Modeling of Tags-to-WiFi Transmissions for Contention-based WiFi Backscatter Networks](https://ieeexplore.ieee.org/document/10004070)," *2022 IEEE International Conference on Networking, Sensing and Control (ICNSC)* , Dec. 2022, pp. 1–6. [[PDF]]
 
 <!--### 专利
 
