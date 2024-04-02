@@ -30,7 +30,7 @@ permalink: /Chinese/
 
 * 2017年09月 - 2019年08月：理学硕士，[澳门科技大学](https://www.must.edu.mo/), 计算机与资讯系统专业（导师：[冯丽](https://www.must.edu.mo/scse/staff/fengli)教授，[赵庆林](https://www.must.edu.mo/scse/staff/zhao-qing-lin)教授）。
 
-* 2014年09月 - 2015年06月：访问学生（卓越工程师教育培养计划）， 解放军理工大学（现名[陆军工程大学](https://www.aeu.edu.cn/main.htm)），信息与通信工程专业。
+* 2014年09月 - 2015年06月：交流学生（卓越工程师教育培养计划）， 解放军理工大学（现名[陆军工程大学](https://www.aeu.edu.cn/main.htm)），信息与通信工程专业。
 
 * 2011年09月 - 2014年06月：理学学士，[北京科技大学](https://www.ustb.edu.cn/), 信息与计算科学专业。
 
