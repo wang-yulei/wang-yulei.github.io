@@ -17,9 +17,11 @@ permalink: /Chinese/
  
 ### 简介
  
-<br>**刘亚林**目前任香港都会大学科技学院[讲师](https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=ylliu&unit=S&T&po=N). 2022年于澳门科技大学获得博士学位. 2022年1月至2022年5月在香港教育大学担任研究助理.  她的研究兴趣包括无线通信、非地面网络、随机几何、网络建模和网络优化.  她曾担任一些会议的 TPC 成员（比如 IEEE WCNC 和 IEEE VTC）以及各种IEEE期刊的评审人. 她目前担任MDPI Electronics的特刊联合客座编辑. <br> 
-<br> **邮箱:** <ylliu@hkmu.edu.hk> 
-<br> **链接:** [HKMU Scholar](https://scholars.hkmu.edu.hk/en/persons/yalin-liu/publications/) | [Google Scholar](https://scholar.google.com/citations?user=boJGB9cAAAAJ&hl=zh-CN) | [Research Gate](https://www.researchgate.net/profile/Yalin-Liu/research?ev=prf_act) | [ORCID](https://orcid.org/0000-0003-2870-4598) &emsp;  
+<br>**刘亚林**目前任香港都会大学科技学院[讲师](https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=ylliu&unit=S&T&po=N). 2022年于澳门科技大学获得博士学位. 2022年1月至2022年5月在香港教育大学担任研究助理.  她的研究兴趣包括无线通信、非地面网络、随机几何、网络建模和网络优化.  她曾担任一些会议的 TPC 成员（比如 IEEE WCNC 和 IEEE VTC）以及各种IEEE期刊的评审人. 她目前担任MDPI Electronics的特刊联合客座编辑. 
+
+<!--<br> **邮箱：** <wangyuleinihao@126.com> --> 
+&emsp; 
+<br> **链接：** [Google Scholar](https://scholar.google.com/citations?user=jI5bF5QAAAAJ&hl=zh-CN) | [ORCID](https://orcid.org/0000-0002-6246-7621) &emsp;
 
 ---
 ### 教育背景
@@ -30,6 +32,13 @@ permalink: /Chinese/
 
 * 09/2013-06/2017：工学学士,  重庆邮电大学 通信工程专业；毕业论文：关于投影仿射自适应滤波算法的设计和应用研究. [[原文]](https://github.com/yalin-liu/yalin-liu.github.io/blob/d82d9ad7fcb415b7500a357307ff06702e5ae261/papers/Bach_Thesis.pdf)
 
+* 2019年09月 - 2024年02月：理学博士，[澳门科技大学](https://www.must.edu.mo/), 计算机技术及其应用专业（导师：[冯丽](https://www.must.edu.mo/scse/staff/fengli)教授，[赵庆林](https://www.must.edu.mo/scse/staff/zhao-qing-lin)教授）。
+
+* 2017年09月 - 2019年08月：理学硕士，[澳门科技大学](https://www.must.edu.mo/), 计算机与资讯系统专业（导师：[冯丽](https://www.must.edu.mo/scse/staff/fengli)教授，[赵庆林](https://www.must.edu.mo/scse/staff/zhao-qing-lin)教授）。
+
+* 2014年09月 - 2015年06月：访问学生（卓越工程师教育培养计划）， 解放军理工大学（现名[陆军工程大学](https://www.aeu.edu.cn/main.htm)），信息与通信工程专业。
+
+* 2011年09月 - 2014年06月：理学学士，[北京科技大学](https://www.ustb.edu.cn/), 信息与计算科学专业。
 ---
 
 ### 工作经验
