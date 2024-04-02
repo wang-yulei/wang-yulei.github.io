@@ -17,7 +17,7 @@ permalink: /Chinese/
  
 ### 简介
  
-<br>**刘亚林**目前任香港都会大学科技学院[讲师](https://www.hkmu.edu.hk/st/people/key-staff/staff-profile/?email=ylliu&unit=S&T&po=N). 2022年于澳门科技大学获得博士学位. 2022年1月至2022年5月在香港教育大学担任研究助理.  她的研究兴趣包括无线通信、非地面网络、随机几何、网络建模和网络优化.  她曾担任一些会议的 TPC 成员（比如 IEEE WCNC 和 IEEE VTC）以及各种IEEE期刊的评审人. 她目前担任MDPI Electronics的特刊联合客座编辑. 
+<br>**王玉磊**于2024年2月获得澳门科技大学理学博士学位。他的研究兴趣包括无线通信、随机几何和语义通信等。
 
 <!--<br> **邮箱：** <wangyuleinihao@126.com> --> 
 &emsp; 
