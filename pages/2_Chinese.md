@@ -12,6 +12,7 @@ permalink: /Chinese/
 ### 联系方式
 
 <br> 电话：(+86) 15011469984
+<br> 微信: macaumust2017
 <br> 邮箱：<wangyuleinihao@126.com>
 <br> 地址：澳门氹仔伟龙马路澳门科技大学
  

@@ -13,6 +13,7 @@ permalink: /homepage/
 
 <br> Tel: (+86) 15011469984
 <br> Email: <wangyuleinihao@126.com>
+<br> Wechat: macaumust2017
 <br> Address: Avenida Wai Long, Taipa, Macau SAR, China
 
 ### Professional Profile
