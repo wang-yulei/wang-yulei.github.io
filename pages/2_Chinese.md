@@ -61,7 +61,7 @@ permalink: /Chinese/
 * **王玉磊**, 赵庆林\*, 姚舒敏, 周孟初, 冯丽 和张佩云, “[Performance Analysis of Node-Assisted WiFi Backscatter Communication: A Stochastic Geometry Approach](https://ieeexplore.ieee.org/document/10488089),” *IEEE Internet of Things Journal*, accepted, DOI: 10.1109/JIOT.2024.3384032. (SCI-indexed, **JCR Q1, 中科院1区Top, IF = 10.6** in 2024) [[PDF](https://github.com/wang-yulei/LoCoR)]
 
 
-* **王玉磊**,  冯丽\*, 姚舒敏, 梁轰，石浩谞 和陈俞强, "[Outage Probability Analysis for D2D-Enabled Heterogeneous Cellular Networks with Exclusion Zone: A Stochastic Geometry Approach](https://www.techscience.com/CMES/v138n1/54254)," *Computer Modeling in Engineering & Sciences*, May 2023. (SCI-indexed, JCR Q3, IF = 2.4 in 2023)
+* **王玉磊**,  冯丽\*, 姚舒敏, 梁轰, 石浩谞 和陈俞强, "[Outage Probability Analysis for D2D-Enabled Heterogeneous Cellular Networks with Exclusion Zone: A Stochastic Geometry Approach](https://www.techscience.com/CMES/v138n1/54254)," *Computer Modeling in Engineering & Sciences*, May 2023. (SCI-indexed, JCR Q3, IF = 2.4 in 2023)
 
 * 金童, 郭剑岚\*, 林良誉, **王玉磊** 和陈云贵, "[Performance Analysis of Synchronous Multilink MAC Protocol with Automatic Repeat Request](https://www.hindawi.com/journals/misy/2022/4049008/)," *Mobile Information Systems*, vol. 2022, pp. 1–11, Sep. 2022. (SCI-indexed, JCR Q3, IF = 1.9 in 2022)
                                 
