@@ -42,17 +42,17 @@ permalink: /homepage/
 
 ### Working Experience
 
-* Oct., 2016 - Aug., 2017: **Administrative Assistant**, [Center for Social Research (CSR)](https://csr.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/).
+* Oct., 2016 - Aug., 2017: Administrative Assistant, [Center for Social Research (CSR)](https://csr.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/).
 
-* Jul., 2015 - Sep., 2016: **Senior Data Analyst**, [China Family Panel Studies](https://www.isss.pku.edu.cn/cfps/en/) Program, [Institute of Social Science Survey](https://www.isss.pku.edu.cn/english/index.htm), [Peking University](https://english.pku.edu.cn/).
+* Jul., 2015 - Sep., 2016: Senior Data Analyst, [China Family Panel Studies](https://www.isss.pku.edu.cn/cfps/en/) Program, [Institute of Social Science Survey](https://www.isss.pku.edu.cn/english/index.htm), [Peking University](https://english.pku.edu.cn/).
 
 ---
 
 ### Research Projects
   
-* Jan. 2019 – Dec. 2022, **participant**, "物联网环境下多子载波频域竞争技术研究", National Natural Science Foundation of China, Grant No.: 61872452.
+* Jan. 2019 – Dec. 2022, participant, "物联网环境下多子载波频域竞争技术研究", National Natural Science Foundation of China, Grant No.: 61872452.
 
-* Jan. 2019 – Dec. 2022, **participant**, "基于PoUW区块链的数据处理研究", National Natural Science Foundation of China, Grant No.: 61872451.
+* Jan. 2019 – Dec. 2022, participant, "基于PoUW区块链的数据处理研究", National Natural Science Foundation of China, Grant No.: 61872451.
 
 ---
 
