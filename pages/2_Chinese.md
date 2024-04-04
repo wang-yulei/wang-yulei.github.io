@@ -80,6 +80,7 @@ permalink: /Chinese/
 #### 国际期刊审稿
 
 * [Elsevier Future Generation Computer Systems (FGCS)](https://www.sciencedirect.com/journal/future-generation-computer-systems)
+* [Elsevier Vehicular Communications (Vehcom)](https://www.sciencedirect.com/journal/vehicular-communications)
 * [IEEE Wireless Communications Letters (WCL)](https://www.comsoc.org/publications/journals/ieee-wcl)
 * [TSP Computers, Materials & Continua (CMC)](https://www.techscience.com/journal/cmc)
 * [Wiley Engineering Reports (ENGR)](https://onlinelibrary.wiley.com/journal/25778196)
