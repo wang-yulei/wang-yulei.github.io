@@ -96,7 +96,7 @@ permalink: /homepage/
 #### Reviewing Activities for International Conferences
 
 * [International Conference on Frontiers of Electronics, Information and Computation Technologies (ICFEICT 2024)](https://www.feict.net/)
-* [2024 IEEE Congress on Evolutionary Computation (IEEE CEC 2024)](https://www.aconf.org/conf_193157.html)
+* [IEEE Congress on Evolutionary Computation (IEEE CEC 2024)](https://www.aconf.org/conf_193157.html)
 
 ---
 
