@@ -69,6 +69,8 @@ permalink: /homepage/
 
 * Tong Jin, Jianlan Guo\*, Liangyu Lin, **Yulei Wang**, and Yungui Chen, "[Performance Analysis of Synchronous Multilink MAC Protocol with Automatic Repeat Request](https://www.hindawi.com/journals/misy/2022/4049008/)," *Mobile Information Systems*, vol. 2022, pp. 1–11, Sep. 2022, doi: 10.1155/2022/4049008. (SCI-indexed, JCR Q3, IF = 1.9 in 2022)
 
+* **Yulei Wang**, L. Feng, “Industrial Information Integration and Communication in Heterogeneous Internet of Things: A Stochastic Geometry Analysis,” Computer Networks, submitted on Apr. 7, 2024. 
+
 
 #### Conference Papers
 
