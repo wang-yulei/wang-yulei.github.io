@@ -97,7 +97,7 @@ permalink: /homepage/
 
 #### Reviewing Activities for International Conferences
 
-* [ELS International Conference on Frontiers of Electronics, Information and Computation Technologies (ELS ICFEICT 2024)](https://www.feict.net/)
+* [ELSP International Conference on Frontiers of Electronics, Information and Computation Technologies (ELSP ICFEICT 2024)](https://www.feict.net/)
 * [IEEE Congress on Evolutionary Computation (IEEE CEC 2024)](https://www.aconf.org/conf_193157.html)
 
 ---
