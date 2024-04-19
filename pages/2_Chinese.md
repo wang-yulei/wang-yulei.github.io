@@ -82,6 +82,7 @@ permalink: /Chinese/
 
 #### 国际期刊审稿
 
+* [Elsevier Computers & Industrial Engineering (CAIE)](https://www.sciencedirect.com/journal/computers-and-industrial-engineering)
 * [Elsevier Future Generation Computer Systems (FGCS)](https://www.sciencedirect.com/journal/future-generation-computer-systems)
 * [Elsevier Vehicular Communications (Vehcom)](https://www.sciencedirect.com/journal/vehicular-communications)
 * [IEEE Wireless Communications Letters (WCL)](https://www.comsoc.org/publications/journals/ieee-wcl)
