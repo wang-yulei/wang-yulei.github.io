@@ -44,7 +44,7 @@ permalink: /homepage/
 
 * Apr., 2024 - Present: Research Assistant, [Hong Kong Metropolitan University](https://www.hkmu.edu.hk/).
   
-* Oct., 2016 - Aug., 2017: Administrative Assistant, [Center for Social Research (CSR)](https://csr.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/).
+* Oct., 2016 - Aug., 2017: Administrative Assistant, [Center for Social Research](https://csr.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/).
 
 * Jul., 2015 - Sep., 2016: Senior Data Analyst, [China Family Panel Studies](https://www.isss.pku.edu.cn/cfps/en/) Program, [Institute of Social Science Survey](https://www.isss.pku.edu.cn/english/index.htm), [Peking University](https://english.pku.edu.cn/).
 
