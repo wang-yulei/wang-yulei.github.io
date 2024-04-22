@@ -100,6 +100,7 @@ permalink: /homepage/
 
 * [ELSP International Conference on Frontiers of Electronics, Information and Computation Technologies (ELSP ICFEICT 2024)](https://www.feict.net/)
 * [ELSP International Symposium on Internet of Things and Smart Cities (ELSP ISITSC 2024)](https://www.isitsc.org/)
+* [ELSP The International Conference on Electronics, Communications and Intelligent Science (ELSP ECIS 2024)](https://www.icecis.org/)
 * [IEEE Congress on Evolutionary Computation (IEEE CEC 2024)](https://www.aconf.org/conf_193157.html)
 
 ---
