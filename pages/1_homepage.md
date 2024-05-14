@@ -89,6 +89,7 @@ permalink: /homepage/
 
 #### Reviewing Activities for International Journals
 
+* [Elsevier Journal of Network and Computer Applications (JNCA)](https://www.editorialmanager.com/jnca/default2.aspx)
 * [Elsevier Computers & Industrial Engineering (CAIE)](https://www.sciencedirect.com/journal/computers-and-industrial-engineering)
 * [Elsevier Future Generation Computer Systems (FGCS)](https://www.sciencedirect.com/journal/future-generation-computer-systems)
 * [Elsevier Vehicular Communications (Vehcom)](https://www.sciencedirect.com/journal/vehicular-communications)
