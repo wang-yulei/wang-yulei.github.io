@@ -97,6 +97,7 @@ permalink: /Chinese/
 * [ELSP International Symposium on Internet of Things and Smart Cities (ELSP ISITSC 2024)](https://www.isitsc.org/)
 * [ELSP The International Conference on Electronics, Communications and Intelligent Science (ELSP ECIS 2024)](https://www.icecis.org/)
 * [IEEE Congress on Evolutionary Computation (IEEE CEC 2024)](https://www.aconf.org/conf_193157.html)
+* [The 2024 IEEE 100th Vehicular Technology Conference (IEEE VTC2024-Fall)](https://events.vtsociety.org/vtc2024-fall/)
 
 ---
 
