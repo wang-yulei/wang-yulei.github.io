@@ -39,7 +39,7 @@ permalink: /Chinese/
 
 ### 工作经验
   
-* 2024年04月 - 至今：研究助理，[香港都会大学](https://www.hkmu.edu.hk/)。
+* 2024年07月 - 至今：研究助理，[香港都会大学](https://www.hkmu.edu.hk/)。
 
 * 2016年10月 - 2017年08月：行政助理，[社会研究中心](https://csr.pku.edu.cn/)，[北京大学](https://pku.edu.cn/)。
 
