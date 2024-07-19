@@ -42,7 +42,7 @@ permalink: /homepage/
 
 ### Working Experience
 
-* Apr., 2024 - Present: Research Assistant, [Hong Kong Metropolitan University](https://www.hkmu.edu.hk/).
+* Jul., 2024 - Present: Research Assistant, [Hong Kong Metropolitan University](https://www.hkmu.edu.hk/).
   
 * Oct., 2016 - Aug., 2017: Administrative Assistant, [Center for Social Research](https://csr.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/).
 
