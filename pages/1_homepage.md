@@ -86,9 +86,8 @@ permalink: /homepage/
 ### Professional Qualifications and Activities
 
 
-<!--#### Editor Activities for International Journals
-
-* xx-->
+#### Editor Activities for International Journals
+* 
 
 #### Reviewing Activities for International Journals
 
@@ -104,11 +103,12 @@ permalink: /homepage/
 
 #### Reviewing Activities for International Conferences
 
+* [ELSP The 2nd International Conference on Computer, Vision and Intelligent Technology (ELSP ICCVIT 2024)](https://www.iccvit.net/) - Workshop Chair
 * [ELSP International Conference on Frontiers of Electronics, Information and Computation Technologies (ELSP ICFEICT 2024)](https://www.feict.net/)
 * [ELSP International Symposium on Internet of Things and Smart Cities (ELSP ISITSC 2024)](https://www.isitsc.org/)
 * [ELSP The International Conference on Electronics, Communications and Intelligent Science (ELSP ECIS 2024)](https://www.icecis.org/)
 * [IEEE Congress on Evolutionary Computation (IEEE CEC 2024)](https://www.aconf.org/conf_193157.html)
-* [The 13th IEEE/CIC International Conference on Communications in China (ICCC 2024)](https://iccc2024.ieee-iccc.org/)
+* [The 13th IEEE/CIC International Conference on Communications in China (IEEE ICCC 2024)](https://iccc2024.ieee-iccc.org/)
 * [The 2024 IEEE 100th Vehicular Technology Conference (IEEE VTC2024-Fall)](https://events.vtsociety.org/vtc2024-fall/)
 
 ---
