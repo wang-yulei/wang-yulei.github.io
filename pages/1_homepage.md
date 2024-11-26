@@ -16,7 +16,7 @@ permalink: /homepage/
 <!--<br> Wechat: macaumust2017--> 
 <br> Address: 182, Minzu Avenue, Hongshan District, Wuhan, Hubei Province, P.R.China, 430074.
 
-<!-- Avenida Wai Long, Taipa, Macau SAR, China-->
+<!--<br> Avenida Wai Long, Taipa, Macau SAR, China -->
 
 ### Professional Profile
 
