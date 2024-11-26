@@ -55,9 +55,9 @@ permalink: /homepage/
 
 ### Research Projects
   
-* Jan. 2019 – Dec. 2022, Participant, "物联网环境下多子载波频域竞争技术研究", National Natural Science Foundation of China, Grant No.: 61872452.
+* Jan. 2019 – Dec. 2022, participant, "物联网环境下多子载波频域竞争技术研究", National Natural Science Foundation of China, Grant No.: 61872452.
 
-* Jan. 2019 – Dec. 2022, Participant, "基于PoUW区块链的数据处理研究", National Natural Science Foundation of China, Grant No.: 61872451.
+* Jan. 2019 – Dec. 2022, participant, "基于PoUW区块链的数据处理研究", National Natural Science Foundation of China, Grant No.: 61872451.
 ---
 
 ### Publications
