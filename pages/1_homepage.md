@@ -43,7 +43,7 @@ permalink: /homepage/
 ---
 
 ### Working Experience
-* Nov., 2024 - Present: Lecture, [College of Electronics and Information Engineering](https://dxxy.scuec.edu.cn/), [South-Central Minzu University](https://www.scuec.edu.cn/).
+* Nov., 2024 - Present: Lecturer, [College of Electronics and Information Engineering](https://dxxy.scuec.edu.cn/), [South-Central Minzu University](https://www.scuec.edu.cn/).
 
 * Jul., 2024 - Dec., 2024: Research Assistant, [School of Science and Technology](https://www.hkmu.edu.hk/st/?repeat=w3tc), [Hong Kong Metropolitan University](https://www.hkmu.edu.hk/).
   
