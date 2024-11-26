@@ -12,9 +12,11 @@ permalink: /homepage/
 ### Contact
 
 <br> Tel: (+86) 15011469984
-<br> Email: <wangyuleinihao@126.com>
+<br> Email: <ylwang@mail.scuec.edu.cn>/<wangyuleinihao@126.com>
 <!--<br> Wechat: macaumust2017--> 
-<br> Address: Avenida Wai Long, Taipa, Macau SAR, China
+<br> Address: 182, Minzu Avenue, Hongshan District, Wuhan, Hubei Province, P.R.China, 430074.
+
+<!--> Avenida Wai Long, Taipa, Macau SAR, China
 
 ### Professional Profile
 
@@ -41,8 +43,9 @@ permalink: /homepage/
 ---
 
 ### Working Experience
+* Nov., 2024 - Present: Lecture, [College of Electronics and Information Engineering](https://dxxy.scuec.edu.cn/), [South-Central Minzu University](https://www.scuec.edu.cn/).
 
-* Jul., 2024 - Present: Research Assistant, [Hong Kong Metropolitan University](https://www.hkmu.edu.hk/).
+* Jul., 2024 - Dec., 2024: Research Assistant, [School of Science and Technology](https://www.hkmu.edu.hk/st/?repeat=w3tc), [Hong Kong Metropolitan University](https://www.hkmu.edu.hk/).
   
 * Oct., 2016 - Aug., 2017: Administrative Assistant, [Center for Social Research](https://csr.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn/).
 
@@ -52,10 +55,9 @@ permalink: /homepage/
 
 ### Research Projects
   
-* Jan. 2019 – Dec. 2022, participant, "物联网环境下多子载波频域竞争技术研究", National Natural Science Foundation of China, Grant No.: 61872452.
+* Jan. 2019 – Dec. 2022, Participant, "物联网环境下多子载波频域竞争技术研究", National Natural Science Foundation of China, Grant No.: 61872452.
 
-* Jan. 2019 – Dec. 2022, participant, "基于PoUW区块链的数据处理研究", National Natural Science Foundation of China, Grant No.: 61872451.
-
+* Jan. 2019 – Dec. 2022, Participant, "基于PoUW区块链的数据处理研究", National Natural Science Foundation of China, Grant No.: 61872451.
 ---
 
 ### Publications
