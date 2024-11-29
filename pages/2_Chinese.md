@@ -71,7 +71,7 @@ permalink: /Chinese/
 ---
 
 #### 会议文章
-* **王玉磊**, 赵庆林\*,冯丽, 周孟初, 沈蒙, 罗玉, 和孙毅,  "[A Meta Distribution-based Fine-Grained Analysis for Contention-based WiFi Backscatter Networks]," *2024 IEEE International Conference on Networking, Sensing and Control (ICNSC)*, 已接收. (EI) [[PDF](https://github.com/wang-yulei/wang-yulei.github.io/blob/master/papers/ICNSC24_Meta_240530.pdf)] 
+* **王玉磊**, 赵庆林\*,冯丽, 周孟初, 沈蒙, 罗玉, 和孙毅,  "[A Meta Distribution-based Fine-Grained Analysis for Contention-based WiFi Backscatter Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10760116)," *2024 IEEE International Conference on Networking, Sensing and Control (ICNSC)*, 已接收. (EI) [[PDF](https://github.com/wang-yulei/wang-yulei.github.io/blob/master/papers/ICNSC24_Meta_240530.pdf)] 
 
 * **王玉磊**, 赵庆林\*, 姚舒敏, 冯丽 和梁轰, "[Performance Modeling of Tags-to-WiFi Transmissions for Contention-based WiFi Backscatter Networks](https://ieeexplore.ieee.org/document/10004070)," *2022 IEEE International Conference on Networking, Sensing and Control (ICNSC)* , Dec. 2022, pp. 1–6. doi: 10.1109/ICNSC55942.2022.10004070. (EI) [[PDF](https://github.com/wang-yulei/wang-yulei.github.io/blob/master/papers/ICNSC22_NWB_220815.pdf)]
 
