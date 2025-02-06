@@ -99,8 +99,8 @@ permalink: /homepage/
 * [Elsevier Vehicular Communications (Vehcom)](https://www.sciencedirect.com/journal/vehicular-communications)
 * [IEEE Access (ACCESS)](https://ieeeaccess.ieee.org/)
 * [IEEE Internet of Things Journal (IoTJ)](https://ieee-iotj.org/)
-* [IEEE Wireless Communications Letters (WCL)](https://www.comsoc.org/publications/journals/ieee-wcl)
 * [IEEE Transactions on Cognitive Communications and Networking](https://www.comsoc.org/publications/journals/ieee-tccn)
+* [IEEE Wireless Communications Letters (WCL)](https://www.comsoc.org/publications/journals/ieee-wcl)
 * [TSP Computers, Materials & Continua (CMC)](https://www.techscience.com/journal/cmc)
 * [Wiley Engineering Reports (ENGR)](https://onlinelibrary.wiley.com/journal/25778196)
 
