@@ -100,6 +100,7 @@ permalink: /homepage/
 * [IEEE Access (ACCESS)](https://ieeeaccess.ieee.org/)
 * [IEEE Internet of Things Journal (IoTJ)](https://ieee-iotj.org/)
 * [IEEE Wireless Communications Letters (WCL)](https://www.comsoc.org/publications/journals/ieee-wcl)
+* [IEEE Transactions on Cognitive Communications and Networking](https://www.comsoc.org/publications/journals/ieee-tccn)
 * [TSP Computers, Materials & Continua (CMC)](https://www.techscience.com/journal/cmc)
 * [Wiley Engineering Reports (ENGR)](https://onlinelibrary.wiley.com/journal/25778196)
 
