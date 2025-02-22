@@ -119,6 +119,6 @@ permalink: /homepage/
 ---
 
 ### Awards and Honors
-*  Full Scholarship Grants for Master Students,  MUST,  09/2017 ~ 08/2019.
+<!--<br> *  Full Scholarship Grants for Master Students,  MUST,  09/2017 ~ 08/2019. -->
 
 ---
