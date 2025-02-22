@@ -13,8 +13,8 @@ permalink: /Chinese/
 
 <br> 电话：(+86) 15011469984
 <!--<br> 微信: macaumust2017--> 
-<br> 邮箱：<wangyuleinihao@126.com>
-<br> 地址：澳门氹仔伟龙马路澳门科技大学
+<br> 邮箱：<ylwang@mail.scuec.edu.cn/wangyuleinihao@126.com>
+<br> 地址：湖北省武汉市中南民族大学电子信息工程学院
  
 ### 简介
  
@@ -112,6 +112,6 @@ permalink: /Chinese/
 
 ### 荣誉获奖
 
-*  硕士全额奖学金, 澳门科技大学, 2017年9月 ~ 2019年8月
+<!--<br>*  硕士全额奖学金, 澳门科技大学, 2017年9月 ~ 2019年8月 -->
 
 ---
