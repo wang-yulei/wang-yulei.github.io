@@ -55,11 +55,13 @@ permalink: /homepage/
 
 ### Research Projects
 
-* Nov. 2024 – Nov. 2027, PI, "Research on Backscatter Communication Theory and Technology for Wisdom-Evolutionary and Primitive-Concise 6G", South-Central Minzu University Reseach Fund, Grant No.: YZY24022.
-  
-* Jan. 2019 – Dec. 2022, participant, "物联网环境下多子载波频域竞争技术研究", National Natural Science Foundation of China, Grant No.: 61872452.
+* Nov. 2024 – Nov. 2027, PI, "Research on Backscatter Communication Theory and Technology for Wisdom-Evolutionary and Primitive-Concise 6G," South-Central Minzu University Reseach Fund, Grant No.: YZY24022.
 
-* Jan. 2019 – Dec. 2022, participant, "基于PoUW区块链的数据处理研究", National Natural Science Foundation of China, Grant No.: 61872451.
+* Jul., 2024 - Dec., 2024, RA, "SAGIN Empowered Web 3.0: Scalable Decentralized Network Design," HKMU R&D Fund, Grant No.: RD/2023/2.22.
+  
+* Jan. 2019 – Dec. 2022, participant, "物联网环境下多子载波频域竞争技术研究," National Natural Science Foundation of China, Grant No.: 61872452.
+
+* Jan. 2019 – Dec. 2022, participant, "基于PoUW区块链的数据处理研究," National Natural Science Foundation of China, Grant No.: 61872451.
 
 ---
 
@@ -106,15 +108,16 @@ permalink: /homepage/
 
 #### Reviewing Activities for International Conferences
 
-* [ELSP The 2nd International Conference on Computer, Vision and Intelligent Technology (ELSP ICCVIT 2024)](https://www.iccvit.net/) - Workshop Chair
-* [ELSP International Conference on Frontiers of Electronics, Information and Computation Technologies (ELSP ICFEICT 2024)](https://www.feict.net/) - Reviewer
-* [ELSP International Symposium on Internet of Things and Smart Cities (ELSP ISITSC 2024)](https://www.isitsc.org/) - Reviewer
-* [ELSP The International Conference on Electronics, Communications and Intelligent Science (ELSP ECIS 2024)](https://www.icecis.org/) - Reviewer
+* [The 2nd International Conference on Computer, Vision and Intelligent Technology (ICCVIT 2024)](https://www.iccvit.net/) - Workshop Co-chair
+* [International Conference on Frontiers of Electronics, Information and Computation Technologies (ICFEICT 2024)](https://www.feict.net/) - Reviewer
+* [International Symposium on Internet of Things and Smart Cities (ISITSC 2024)](https://www.isitsc.org/) - Reviewer
+* [The International Conference on Electronics, Communications and Intelligent Science (ECIS 2024)](https://www.icecis.org/) - Reviewer
 * [IEEE Congress on Evolutionary Computation (IEEE CEC 2024)](https://www.aconf.org/conf_193157.html) - Reviewer
 * [The 13th IEEE/CIC International Conference on Communications in China (IEEE ICCC 2024)](https://iccc2024.ieee-iccc.org/) - Reviewer
 * [The 2024 IEEE 100th Vehicular Technology Conference (IEEE VTC2024-Fall)](https://events.vtsociety.org/vtc2024-fall/) - Reviewer
 * [IEEE The 34th Wireless and Optical Communications Conference (IEEE WOCC2025)](https://www.wocc.org/wocc2025/) - TPC Member, Session Chair
-* [The 11th IEEE World Forum on Internet of Things (IEEE WFIoT2025)](https://wfiot2025.iot.ieee.org/) - TPC reviewer
+* [The 11th IEEE World Forum on Internet of Things (IEEE WFIoT2025)](https://wfiot2025.iot.ieee.org/) - TPC Reviewer
+* [The 2nd International Symposium on IoT and Intelligent Robotics (IoTIR 2025)](https://www.iotir.org/) - Workshop Co-chair
 
 ---
 
