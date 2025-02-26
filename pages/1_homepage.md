@@ -83,8 +83,7 @@ permalink: /homepage/
   
 * **Yulei Wang**, Qinglin Zhao\*, Shumin Yao, Li Feng, and Hong Liang,  "[Performance Modeling of Tags-to-WiFi Transmissions for Contention-based WiFi Backscatter Networks](https://ieeexplore.ieee.org/document/10004070)," *2022 IEEE International Conference on Networking, Sensing and Control (ICNSC)*, Dec. 2022, pp. 1–6. doi: 10.1109/ICNSC55942.2022.10004070. (EI) [[PDF](https://github.com/wang-yulei/wang-yulei.github.io/blob/master/papers/ICNSC22_NWB_220815.pdf)]
 
-* **Yulei Wang**, Yalin Liu\*, Yaru Fu, Yujie Qin, and Zhongjie Li,  "3D Stochastic Geometry Model for Aerial
-Vehicle-Relayed Ground-Air-Satellite Connectivity," *The 2025 IEEE 101st Vehicular Technology Conference*, submitted at Dec. 2024. (EI) [[PDF](https://github.com/wang-yulei/wang-yulei.github.io/blob/master/papers/ICNSC22_NWB_220815.pdf)]
+* **Yulei Wang**, Yalin Liu\*, Yaru Fu, Yujie Qin, and Zhongjie Li,  "3D Stochastic Geometry Model for Aerial Vehicle-Relayed Ground-Air-Satellite Connectivity," *The 2025 IEEE 101st Vehicular Technology Conference*, submitted at Dec. 2024. (EI) [[PDF](https://github.com/wang-yulei/wang-yulei.github.io/blob/master/papers/VTC25_SAGIN.pdf)]
 
 <!--### Patents
 
