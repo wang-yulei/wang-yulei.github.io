@@ -26,7 +26,7 @@ Dr. Wang has served as a Technical Program Committee (TPC) member for conference
 
 His research interests include space-air-ground integrated networks, semantic communication and stochastic geometry.
 
-Dr. Wang is seeking 2–3 self-motivated master's students per year to join his research group in Telecommunication Engineering at the College of Electronics and Information Engineering.
+<br> Dr. Wang is seeking **2–3 self-motivated master's students** per year to join his research group in Telecommunication Engineering at the College of Electronics and Information Engineering.
 * Admission to the Telecommunication Engineering program.
 * Strong mathematical background and programming skills (Python/Matlab/C++ preferred).
 * Passion for research, independent problem-solving, and collaborative work.
