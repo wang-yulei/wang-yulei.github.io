@@ -26,12 +26,12 @@ Dr. Wang has served as a Technical Program Committee (TPC) member for conference
 
 His research interests include space-air-ground integrated networks, semantic communication and stochastic geometry.
 
-<br> Dr. Wang is seeking **2–3 self-motivated master's students** per year to join his research group. The admission requirements are:
+<br> Dr. Wang is seeking **2–3 self-motivated master’s students** per year to join his research group. The admission requirements are:
 * Accepted into the College of Electronics and Information Engineering and Telecommunication Engineering program.
 * Strong mathematical background and programming skills (Python/Matlab/C++ preferred).
 * Passion for research, independent problem-solving, and collaborative work.
 
-Interested candidates are welcomed to contact him with your resume/CV for further discussion. Looking forward to collaborating with bright and driven students!
+Interested candidates are welcomed to contact him with resume/CV for further discussion. Looking forward to collaborating with bright and driven students!
 
 <!--<br> **Email:** <wangyuleinihao@126.com> --> 
 &emsp; 
