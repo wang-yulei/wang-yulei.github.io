@@ -20,23 +20,25 @@ permalink: /homepage/
 
 ### Professional Profile
 
-<br> **Yulei Wang** received his Ph.D. in Computer Technology and Application from [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China, in Feb., 2024, M.S. degree in Computer and Information Systems from [MUST](https://www.must.edu.mo/) in Aug., 2019, and B.S. degree in Information and Computing Science from [University of Science and Technology Beijing](https://www.ustb.edu.cn/), Beijing, China, in 2015. 
+<br> **Yulei Wang** received his Ph.D. in Computer Technology and Application from [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China, in Feb., 2024, M.S. degree in Computer and Information Systems from [MUST](https://www.must.edu.mo/) in Aug., 2019, and B.S. degree in Information and Computing Science from [University of Science and Technology Beijing](https://www.ustb.edu.cn/), Beijing, China, in 2015.
 
-<br> His research interests include space-air-ground integrated networks, semantic communication and stochastic geometry.
+Dr. Wang has served as a Technical Program Committee (TPC) member for conferences such as IEEE WOCC, and as a reviewer for various IEEE journals including IEEE TCCN, IoTJ and Elsevier FGCS Vehcom.
+
+His research interests include space-air-ground integrated networks, semantic communication and stochastic geometry.
 
 <br> He is seeking 2–3 self-motivated master's students per year to join his research group with the following requirements:
 * Accepted into the Telecommunication Engineering major at College of Electronics and Information Engineering, South-Central Minzu University.
 * Strong mathematical background and programming skills are highly preferred.
 * Passion for research, problem-solving, and teamwork.
 
-<br> Interested candidates should contact me with their resume/CV for further discussion. Looking forward to collaborating with bright and driven students!
+<br> Interested candidates should contact him with your resume/CV for further discussion. Looking forward to collaborating with bright and driven students!
 
 <br> He is seeking 2–3 self-motivated master's students per year to join his research group in Telecommunication Engineering at the College of Electronics and Information Engineering.
 * Admission to the Telecommunication Engineering program.
 * Strong mathematical background and programming skills (Python/Matlab/C++ preferred).
 * Passion for research, independent problem-solving, and collaborative work.
 
-Interested candidates should contact me with their resume/CV for further discussion. Looking forward to collaborating with bright and driven students!
+Interested candidates should contact him with your resume/CV for further discussion. Looking forward to collaborating with bright and driven students!
 
 <!--<br> **Email:** <wangyuleinihao@126.com> --> 
 &emsp; 
