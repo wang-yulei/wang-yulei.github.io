@@ -24,17 +24,17 @@ permalink: /homepage/
 
 <br> His research interests include space-air-ground integrated networks, semantic communication and stochastic geometry.
 
-<br> **Yulei Wang** is seeking 2–3 self-motivated master’s students per year to join his research group with the following requirements:
+<br> He is seeking 2–3 self-motivated master’s students per year to join his research group with the following requirements:
 * Accepted into the Telecommunication Engineering major at College of Electronics and Information Engineering, South-Central Minzu University.
 * Strong mathematical background and programming skills are highly preferred.
 * Passion for research, problem-solving, and teamwork.
 
 <br> Interested candidates should contact me with their resume/CV for further discussion. Looking forward to collaborating with bright and driven students!
 
-<br> **Yulei Wang** is seeking 2–3 self-motivated master’s students per year to join his research group in Telecommunication Engineering at the College of Electronics and Information Engineering.
-✅ Admission to the Telecommunication Engineering program.
-✅ Strong mathematical background and programming skills (Python/Matlab/C++ preferred).
-✅ Passion for research, independent problem-solving, and collaborative work.
+<br> He is seeking 2–3 self-motivated master’s students per year to join his research group in Telecommunication Engineering at the College of Electronics and Information Engineering.
+* Admission to the Telecommunication Engineering program.
+* Strong mathematical background and programming skills (Python/Matlab/C++ preferred).
+* Passion for research, independent problem-solving, and collaborative work.
 
 <br> Interested candidates should contact me with their resume/CV for further discussion. Looking forward to collaborating with bright and driven students!
 
