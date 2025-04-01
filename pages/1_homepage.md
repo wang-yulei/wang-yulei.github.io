@@ -22,7 +22,7 @@ permalink: /homepage/
 
 <br> **Yulei Wang** received his Ph.D. in Computer Technology and Application from [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China, in Feb., 2024, M.S. degree in Computer and Information Systems from [MUST](https://www.must.edu.mo/) in Aug., 2019, and B.S. degree in Information and Computing Science from [University of Science and Technology Beijing](https://www.ustb.edu.cn/), Beijing, China, in 2015.
 
-Dr. Wang has served as a Technical Program Committee (TPC) member for conferences such as IEEE WOCC, and as a reviewer for various IEEE journals including IEEE TCCN, IoTJ and Elsevier FGCS Vehcom.
+Dr. Wang has served as a Technical Program Committee (TPC) member for conferences such as IEEE WOCC, and as a reviewer for various IEEE journals including IEEE TCCN, IoTJ and Elsevier FGCS, Vehcom.
 
 His research interests include space-air-ground integrated networks, semantic communication and stochastic geometry.
 
