@@ -35,7 +35,6 @@ permalink: /homepage/
 * Admission to the Telecommunication Engineering program.
 * Strong mathematical background and programming skills (Python/Matlab/C++ preferred).
 * Passion for research, independent problem-solving, and collaborative work.
-
 <br> Interested candidates should contact me with their resume/CV for further discussion. Looking forward to collaborating with bright and driven students!
 
 <!--<br> **Email:** <wangyuleinihao@126.com> --> 
