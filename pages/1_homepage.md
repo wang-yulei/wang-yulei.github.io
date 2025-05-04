@@ -94,7 +94,7 @@ Interested candidates are welcomed to contact him with resume/CV for further dis
 
 * **Yulei Wang**, Yalin Liu\*, Yaru Fu, Yujie Qin, and Zhongjie Li,  "3D Stochastic Geometry Model for Aerial Vehicle-Relayed Ground-Air-Satellite Connectivity," *The 2025 IEEE 101st Vehicular Technology Conference*, accepted. (EI) [[PDF](https://github.com/wang-yulei/wang-yulei.github.io/blob/master/papers/VTC25_SAGIN_250109.pdf)]
 
-* Letao Wang, **Yulei Wang**,  "GN-MAB: Group Neural Bandits for Dynamic Collaborative Inference in Maritime Edge Intelligence Networks," *The 34th Wireless and Optical Communications Conference (WOCC2025)*, submitted at Mar., 2025. (EI) [[PDF]]
+* Letao Wang, **Yulei Wang**,  "Group Neural Bandits for Dynamic Collaborative Inference in Maritime Edge Intelligence Networks," *The 34th Wireless and Optical Communications Conference (WOCC2025)*, submitted at Mar., 2025. (EI) [[PDF]]
 
 <!--### Patents * Yuhao Feng, **Yulei Wang**,  "Utility Aware Collaborative Edge Inference for Fog Computing Networks: A Neural Bandits Approach," *The 34th Wireless and Optical Communications Conference (WOCC2025)*, submitted at Mar., 2025. (EI) [[PDF]]
 
@@ -114,6 +114,7 @@ Interested candidates are welcomed to contact him with resume/CV for further dis
 * [Elsevier Vehicular Communications (Vehcom)](https://www.sciencedirect.com/journal/vehicular-communications)
 * [IEEE Access (ACCESS)](https://ieeeaccess.ieee.org/)
 * [IEEE Internet of Things Journal (IoTJ)](https://ieee-iotj.org/)
+* [IEEE Transactions on Vehicular Technology (TVT)](https://vtsociety.org/publication/ieee-transactions-vehicular-technology)
 * [IEEE Transactions on Cognitive Communications and Networking (TCCN)](https://www.comsoc.org/publications/journals/ieee-tccn)
 * [IEEE Wireless Communications Letters (WCL)](https://www.comsoc.org/publications/journals/ieee-wcl)
 * [TSP Computers, Materials & Continua (CMC)](https://www.techscience.com/journal/cmc)
