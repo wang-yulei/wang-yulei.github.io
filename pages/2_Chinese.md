@@ -95,11 +95,13 @@ permalink: /Chinese/
 #### 国际期刊审稿
 
 * [Elsevier Computers & Industrial Engineering (CAIE)](https://www.sciencedirect.com/journal/computers-and-industrial-engineering)
-* [Elsevier Future Generation Computer Systems (FGCS)](https://www.sciencedirect.com/journal/future-generation-computer-systems)
+* [Elsevier Computers Networks (CN)](https://www.sciencedirect.com/journal/computer-networks)
+* [Elsevier Future Generation Computer Systems (FGCS)](https://www.sciencedirect.com/journal/future-generation-computer-systems) (Excellent Reviewer)
 * [Elsevier Journal of Network and Computer Applications (JNCA)](https://www.editorialmanager.com/jnca/default2.aspx)
 * [Elsevier Vehicular Communications (Vehcom)](https://www.sciencedirect.com/journal/vehicular-communications)
 * [IEEE Access (ACCESS)](https://ieeeaccess.ieee.org/)
 * [IEEE Internet of Things Journal (IoTJ)](https://ieee-iotj.org/)
+* [IEEE Transactions on Vehicular Technology (TVT)](https://vtsociety.org/publication/ieee-transactions-vehicular-technology)
 * [IEEE Transactions on Cognitive Communications and Networking (TCCN)](https://www.comsoc.org/publications/journals/ieee-tccn)
 * [IEEE Wireless Communications Letters (WCL)](https://www.comsoc.org/publications/journals/ieee-wcl)
 * [TSP Computers, Materials & Continua (CMC)](https://www.techscience.com/journal/cmc)
