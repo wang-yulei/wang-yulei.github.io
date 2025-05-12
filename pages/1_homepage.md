@@ -109,6 +109,7 @@ Interested candidates are welcomed to contact him with resume/CV for further dis
 #### Reviewing Activities for International Journals
 
 * [Elsevier Computers & Industrial Engineering (CAIE)](https://www.sciencedirect.com/journal/computers-and-industrial-engineering)
+* [Elsevier Computers Networks (CN)](https://www.sciencedirect.com/journal/computer-networks)
 * [Elsevier Future Generation Computer Systems (FGCS)](https://www.sciencedirect.com/journal/future-generation-computer-systems) (Excellent Reviewer)
 * [Elsevier Journal of Network and Computer Applications (JNCA)](https://www.editorialmanager.com/jnca/default2.aspx)
 * [Elsevier Vehicular Communications (Vehcom)](https://www.sciencedirect.com/journal/vehicular-communications)
