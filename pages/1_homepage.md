@@ -86,6 +86,8 @@ Interested candidates are welcomed to contact him with resume/CV for further dis
 
 * Tong Jin, Jianlan Guo\*, Liangyu Lin, **Yulei Wang**, and Yungui Chen, "[Performance Analysis of Synchronous Multilink MAC Protocol with Automatic Repeat Request](https://www.hindawi.com/journals/misy/2022/4049008/)," *Mobile Information Systems*, vol. 2022, pp. 1–11, Sep. 2022, doi: 10.1155/2022/4049008. (SCI, JCR Q3, IF = 1.9 in 2022)
 
+* **Yulei Wang**, Yalin Liu, Yaru Fu, and Zhiguo Ding, "Pinching-Antenna Systems For Indoor Immersive Communications: A 3D-Modeling Based Performance Analysis," *IEEE Wireless Communications Letters*, submitted at Jun., 2025. (SCI) [[PDF]]
+
 #### Conference Papers
 
 * **Yulei Wang**, Qinglin Zhao\*, Li Feng, MengChu Zhou, Meng Shen, Yu Luo, and Yi Sun,  "[A Meta Distribution-based Fine-Grained Analysis for Contention-based WiFi Backscatter Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10760116)," *2024 IEEE International Conference on Networking, Sensing and Control (ICNSC)*, Dec. 2024, pp. 1–6. doi: 10.1109/ICNSC62968.2024.10760116. (EI) [[PDF](https://github.com/wang-yulei/wang-yulei.github.io/blob/master/papers/ICNSC24_Meta_240530.pdf)] 
