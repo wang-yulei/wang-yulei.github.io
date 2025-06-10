@@ -86,7 +86,7 @@ Interested candidates are welcomed to contact him with resume/CV for further dis
 
 * Tong Jin, Jianlan Guo\*, Liangyu Lin, **Yulei Wang**, and Yungui Chen, "[Performance Analysis of Synchronous Multilink MAC Protocol with Automatic Repeat Request](https://www.hindawi.com/journals/misy/2022/4049008/)," *Mobile Information Systems*, vol. 2022, pp. 1–11, Sep. 2022, doi: 10.1155/2022/4049008. (SCI, JCR Q3, IF = 1.9 in 2022)
 
-* **Yulei Wang**, Yalin Liu, Yaru Fu, and Zhiguo Ding, "Pinching-Antenna Systems For Indoor Immersive Communications: A 3D-Modeling Based Performance Analysis," *IEEE Wireless Communications Letters*, submitted at Jun., 2025. (SCI) [[PDF]]
+* **Yulei Wang**, Yalin Liu, Yaru Fu, and Zhiguo Ding, "Pinching-Antenna Systems For Indoor Immersive Communications: A 3D-Modeling Based Performance Analysis," *IEEE Wireless Communications Letters*, submitted at Jun., 2025. (SCI) [[PDF](https://arxiv.org/abs/2506.07771)]
 
 #### Conference Papers
 
@@ -94,7 +94,7 @@ Interested candidates are welcomed to contact him with resume/CV for further dis
   
 * **Yulei Wang**, Qinglin Zhao\*, Shumin Yao, Li Feng, and Hong Liang,  "[Performance Modeling of Tags-to-WiFi Transmissions for Contention-based WiFi Backscatter Networks](https://ieeexplore.ieee.org/document/10004070)," *2022 IEEE International Conference on Networking, Sensing and Control (ICNSC)*, Dec. 2022, pp. 1–6. doi: 10.1109/ICNSC55942.2022.10004070. (EI) [[PDF](https://github.com/wang-yulei/wang-yulei.github.io/blob/master/papers/ICNSC22_NWB_220815.pdf)]
 
-* **Yulei Wang**, Yalin Liu\*, Yaru Fu, Yujie Qin, and Zhongjie Li,  "3D Stochastic Geometry Model for Aerial Vehicle-Relayed Ground-Air-Satellite Connectivity," *The 2025 IEEE 101st Vehicular Technology Conference*, accepted. (EI) [[PDF](https://github.com/wang-yulei/wang-yulei.github.io/blob/master/papers/VTC25_SAGIN_250109.pdf)]
+* **Yulei Wang**, Yalin Liu\*, Yaru Fu, Yujie Qin, and Zhongjie Li,  "3D Stochastic Geometry Model for Aerial Vehicle-Relayed Ground-Air-Satellite Connectivity," *The 2025 IEEE 101st Vehicular Technology Conference*, accepted. (EI) [[PDF](https://arxiv.org/abs/2503.16202)]
 
 * Letao Wang, **Yulei Wang**,  "Group Neural Bandits for Dynamic Collaborative Inference in Maritime Edge Intelligence Networks," *The 34th Wireless and Optical Communications Conference (WOCC2025)*, submitted at Mar., 2025. (EI) [[PDF]]
 
