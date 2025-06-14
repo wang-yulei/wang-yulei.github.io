@@ -122,6 +122,9 @@ Interested candidates are welcomed to contact him with resume/CV for further dis
 * [IEEE Wireless Communications Letters (WCL)](https://www.comsoc.org/publications/journals/ieee-wcl)
 * [TSP Computers, Materials & Continua (CMC)](https://www.techscience.com/journal/cmc)
 * [Wiley Engineering Reports (ENGR)](https://onlinelibrary.wiley.com/journal/25778196)
+* [PLOS One](http://www.plosone.org/home.action)
+* [SCIENCE CHINA Information Sciences (SCIS)](https://www.springer.com/11432)
+
 
 #### Reviewing Activities for International Conferences
 
