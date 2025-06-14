@@ -108,6 +108,8 @@ permalink: /Chinese/
 * [IEEE Wireless Communications Letters (WCL)](https://www.comsoc.org/publications/journals/ieee-wcl)
 * [TSP Computers, Materials & Continua (CMC)](https://www.techscience.com/journal/cmc)
 * [Wiley Engineering Reports (ENGR)](https://onlinelibrary.wiley.com/journal/25778196)
+* [PLOS One](http://www.plosone.org/home.action)
+* [Springer SCIENCE CHINA Information Sciences (SCIS)](https://www.springer.com/11432)
 
 #### 国际会议审稿
 
