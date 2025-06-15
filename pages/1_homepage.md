@@ -64,6 +64,8 @@ Interested candidates are welcomed to contact him with resume/CV for further dis
 
 ### Research Projects
 
+* May 2025 – May. 2028, PI, "障碍物场景下Pinching天线系统动态部署与传输优化研究," Fundamental Research Funds for the Central Universities”, South-Central MinZu University, Grant No.: CZQ25005.
+
 * Nov. 2024 – Nov. 2027, PI, "Research on Backscatter Communication Theory and Technology for Wisdom-Evolutionary and Primitive-Concise 6G," South-Central Minzu University Reseach Fund, Grant No.: YZY24022.
 
 * Jul., 2024 - Dec., 2024, RA, "SAGIN Empowered Web 3.0: Scalable Decentralized Network Design," HKMU R&D Fund, Grant No.: RD/2023/2.22.
