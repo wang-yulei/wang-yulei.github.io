@@ -124,6 +124,7 @@ permalink: /Chinese/
 * [The 2024 IEEE 100th Vehicular Technology Conference (IEEE VTC2024-Fall)](https://events.vtsociety.org/vtc2024-fall/) - Reviewer
 * [IEEE The 34th Wireless and Optical Communications Conference (IEEE WOCC2025)](https://www.wocc.org/wocc2025/) - TPC Member, Session Chair
 * [The 11th IEEE World Forum on Internet of Things (IEEE WFIoT2025)](https://wfiot2025.iot.ieee.org/) - TPC reviewer
+* [2025 IEEE/CIC International Conference on Communications in China (ICCC 2025)](https://iccc2025.ieee-iccc.org/) - Reviewer
 
 ---
 
