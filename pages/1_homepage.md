@@ -142,6 +142,7 @@ Interested candidates are welcomed to contact him with resume/CV for further dis
 * [The 2nd International Symposium on IoT and Intelligent Robotics (IoTIR 2025)](https://www.iotir.org/) - Workshop Co-chair
 * [2025 IEEE/CIC International Conference on Communications in China (ICCC 2025)](https://iccc2025.ieee-iccc.org/) - Reviewer
 * [The 4th International Conference on Internet of Things, Communication and Intelligent Technology (IoTCIT 2025)](https://www.iotcit.org/intelligent-technology/) - Workshop Co-chair
+* [The 7th International Conference on Wireless Communications and Signal Processing (WCSP 2025)](http://www.ic-wcsp.org/2025/) - TPC Reviewer
 
 ---
 
