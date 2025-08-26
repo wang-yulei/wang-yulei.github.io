@@ -114,7 +114,7 @@ Interested candidates are welcomed to contact him with resume/CV for further dis
 
 * [Elsevier Computers & Industrial Engineering (CAIE)](https://www.sciencedirect.com/journal/computers-and-industrial-engineering)
 * [Elsevier Computers Networks (CN)](https://www.sciencedirect.com/journal/computer-networks)
-* [Elsevier Future Generation Computer Systems (FGCS)](https://www.sciencedirect.com/journal/future-generation-computer-systems) ([Excellent Reviewer](https://github.com/wang-yulei/wang-yulei.github.io/blob/master/papers/Certificate_FGCS_Excellence.pdf))
+* [Elsevier Future Generation Computer Systems (FGCS)](https://www.sciencedirect.com/journal/future-generation-computer-systems) ([Excellent Reviewer](https://github.com/wang-yulei/wang-yulei.github.io/blob/master/papers/Certificate-FGCS-Excellence.pdf))
 * [Elsevier Journal of Network and Computer Applications (JNCA)](https://www.editorialmanager.com/jnca/default2.aspx)
 * [Elsevier Vehicular Communications (Vehcom)](https://www.sciencedirect.com/journal/vehicular-communications)
 * [IEEE Access (ACCESS)](https://ieeeaccess.ieee.org/)
