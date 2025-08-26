@@ -13,7 +13,7 @@ permalink: /Chinese/
 
 <br> 电话：(+86) 15011469984
 <!--<br> 微信: macaumust2017--> 
-<br> 邮箱：<ylwang@mail.scuec.edu.cn/wangyuleinihao@126.com>
+<br> 邮箱：<ylwang@mail.scuec.edu.cn>
 <br> 地址：湖北省武汉市中南民族大学电子信息工程学院
  
 ### 简介
