@@ -12,7 +12,7 @@ permalink: /homepage/
 ### Contact
 
 <br> Tel: (+86) 15011469984
-<br> Email: <ylwang@mail.scuec.edu.cn>/<wangyuleinihao@126.com>
+<br> Email: <ylwangatmaildotscuecdotedudotcn>/<wangyuleinihaoat126dotcom>
 <!--<br> Wechat: macaumust2017--> 
 <br> Address: 182, Minzu Avenue, Hongshan District, Wuhan, Hubei Province, P.R.China, 430074.
 
