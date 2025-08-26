@@ -12,7 +12,7 @@ permalink: /homepage/
 ### Contact
 
 <br> Tel: (+86) 15011469984
-<br> Email: <ylwangatmaildotscuecdotedudotcn>/<wangyuleinihaoat126dotcom>
+<br> Email: <ylwang@mail.scuec.edu.cn>
 <!--<br> Wechat: macaumust2017--> 
 <br> Address: 182, Minzu Avenue, Hongshan District, Wuhan, Hubei Province, P.R.China, 430074.
 
@@ -53,6 +53,8 @@ Interested candidates are welcomed to contact him with resume/CV for further dis
 
 ### Working Experience
 * Nov., 2024 - Present: Lecturer, [College of Electronics and Information Engineering](https://dxxy.scuec.edu.cn/), [South-Central Minzu University](https://www.scuec.edu.cn/).
+
+* Aug., 2025 - Sep., 2025: Research Associate, [School of Science and Technology](https://www.hkmu.edu.hk/st/?repeat=w3tc), [Hong Kong Metropolitan University](https://www.hkmu.edu.hk/).
 
 * Jul., 2024 - Dec., 2024: Research Assistant, [School of Science and Technology](https://www.hkmu.edu.hk/st/?repeat=w3tc), [Hong Kong Metropolitan University](https://www.hkmu.edu.hk/).
   
