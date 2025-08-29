@@ -139,7 +139,7 @@ Interested candidates are welcomed to contact him with resume/CV for further dis
 * [IEEE Congress on Evolutionary Computation (IEEE CEC 2024)](https://www.aconf.org/conf_193157.html) - Reviewer
 * [The 13th IEEE/CIC International Conference on Communications in China (IEEE ICCC 2024)](https://iccc2024.ieee-iccc.org/) - Reviewer
 * [The 2024 IEEE 100th Vehicular Technology Conference (IEEE VTC2024-Fall)](https://events.vtsociety.org/vtc2024-fall/) - Reviewer
-* [IEEE The 34th Wireless and Optical Communications Conference (IEEE WOCC2025)](https://www.wocc.org/wocc2025/) - TPC Member, Session Chair
+* [IEEE The 34th Wireless and Optical Communications Conference (IEEE WOCC2025)](https://www.wocc.org/wocc2025/) - [TPC Member, Session Chair](papers/Certificate-WOCC25-Chair.pdf)
 * [The 11th IEEE World Forum on Internet of Things (IEEE WFIoT2025)](https://wfiot2025.iot.ieee.org/) - TPC Reviewer
 * [The 2nd International Symposium on IoT and Intelligent Robotics (IoTIR 2025)](https://www.iotir.org/) - Workshop Co-chair
 * [2025 IEEE/CIC International Conference on Communications in China (ICCC 2025)](https://iccc2025.ieee-iccc.org/) - Reviewer
