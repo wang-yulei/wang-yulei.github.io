@@ -100,11 +100,11 @@ Interested candidates are welcomed to contact him with resume/CV for further dis
   
 * **Yulei Wang**, Qinglin Zhao\*, Shumin Yao, Li Feng, and Hong Liang,  "[Performance Modeling of Tags-to-WiFi Transmissions for Contention-based WiFi Backscatter Networks](https://ieeexplore.ieee.org/document/10004070)," *2022 IEEE International Conference on Networking, Sensing and Control (ICNSC)*, Dec. 2022, pp. 1–6. doi: 10.1109/ICNSC55942.2022.10004070. (EI) [[PDF](https://github.com/wang-yulei/wang-yulei.github.io/blob/master/papers/ICNSC22_NWB_220815.pdf)]
 
-* **Yulei Wang**, Yalin Liu\*, Yaru Fu, Yujie Qin, and Zhongjie Li,  "3D Stochastic Geometry Model for Aerial Vehicle-Relayed Ground-Air-Satellite Connectivity," *The 2025 IEEE 101st Vehicular Technology Conference*, accepted. (EI) [[PDF](https://arxiv.org/abs/2503.16202)]
+* **Yulei Wang**, Yalin Liu\*, Yaru Fu, Yujie Qin, and Zhongjie Li,  "3D Stochastic Geometry Model for Aerial Vehicle-Relayed Ground-Air-Satellite Connectivity," in *2025 IEEE 101st Vehicular Technology Conference (VTC2025-Spring)*, June 2025, pp. 1–5. doi: 10.1109/VTC2025-Spring65109.2025.11174375. (EI) [[PDF](https://arxiv.org/abs/2503.16202)]
 
-* Letao Wang, **Yulei Wang**,  "Group Neural Bandits for Dynamic Collaborative Inference in Maritime Edge Intelligence Networks," *The 34th Wireless and Optical Communications Conference (WOCC2025)*, submitted at Mar., 2025. (EI) [[PDF]]
+* Letao Wang, **Yulei Wang**,  "Group Neural Bandits for Dynamic Collaborative Inference in Maritime Edge Intelligence Networks," in *2025 IEEE 34th Wireless and Optical Communications Conference (WOCC)*, May 2025, pp. 33–37. doi: 10.1109/WOCC63563.2025.11082232.. (EI) [[PDF]]
 
-<!--### Patents * Yuhao Feng, **Yulei Wang**,  "Utility Aware Collaborative Edge Inference for Fog Computing Networks: A Neural Bandits Approach," *The 34th Wireless and Optical Communications Conference (WOCC2025)*, submitted at Mar., 2025. (EI) [[PDF]]
+<!--### Patents * Yuhao Feng, **Yulei Wang**,  "Utility Aware Collaborative Edge Inference for Fog Computing Networks: A Neural Bandits Approach," in 2025 IEEE 34th Wireless and Optical Communications Conference (WOCC), May 2025, pp. 47–51. doi: 10.1109/WOCC63563.2025.11082191. (EI) [[PDF]]
 
 * xx-->
 
