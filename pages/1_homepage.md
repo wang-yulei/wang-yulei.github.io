@@ -84,11 +84,13 @@ Interested candidates are welcomed to contact him with resume/CV for further dis
 
 * **Yulei Wang**, Qinglin Zhao, Shumin Yao, MengChu Zhou, Li Feng\*, and Peiyun Zhang, “[Analytical Modeling of Location and Contention Randomness for Node-Assisted WiFi Backscatter Communication](https://ieeexplore.ieee.org/document/10488089),” *IEEE Internet of Things Journal*, vol. 11, no. 13, pp. 23 336–23 347, July 2024, doi: 10.1109/JIOT.2024.3384032. (SCI, **JCR Q1, 中科院1区Top, CCF C, IF = 10.6** in 2024) [[PDF](https://github.com/wang-yulei/LoCoR)]
 
-* **Yulei Wang**, Li Feng, Yalin Liu, and Zhongjie Li, “[Stochastic geometry analysis for information integration and communication in cellular and D2D-based heterogeneous IoT](https://www.sciencedirect.com/science/article/abs/pii/S1389128625000945),” *Computer Networks*, vol. 261, p. 111126, Apr. 2025, doi: 10.1016/j.comnet.2025.111126. (SCI, **JCR Q2, 中科院2区, CCF B, IF = 4.6** in 2024) [[PDF](https://github.com/wang-yulei/wang-yulei.github.io/blob/master/papers/CN25_HetIoT_241214.pdf)] 
+* **Yulei Wang**, Li Feng, Yalin Liu, and Zhongjie Li, “[Stochastic geometry analysis for information integration and communication in cellular and D2D-based heterogeneous IoT](https://www.sciencedirect.com/science/article/abs/pii/S1389128625000945),” *Computer Networks*, vol. 261, p. 111126, Apr. 2025, doi: 10.1016/j.comnet.2025.111126. (SCI, **JCR Q2, 中科院2区, CCF B, IF = 4.6** in 2025) [[PDF](https://github.com/wang-yulei/wang-yulei.github.io/blob/master/papers/CN25_HetIoT_241214.pdf)] 
  
 * **Yulei Wang**, Li Feng\*, Shumin Yao, Hong Liang, Haoxu Shi, and Yuqiang Chen, “[Outage Probability Analysis for D2D-Enabled Heterogeneous Cellular Networks with Exclusion Zone: A Stochastic Geometry Approach](https://www.techscience.com/CMES/v138n1/54254),” *Computer Modeling in Engineering & Sciences*, vol. 138, no. 1, pp. 639–661, May 2023, doi: 10.32604/cmes.2023.029565. (SCI, JCR Q3, IF = 2.4 in 2023)
 
 * Tong Jin, Jianlan Guo\*, Liangyu Lin, **Yulei Wang**, and Yungui Chen, "[Performance Analysis of Synchronous Multilink MAC Protocol with Automatic Repeat Request](https://www.hindawi.com/journals/misy/2022/4049008/)," *Mobile Information Systems*, vol. 2022, pp. 1–11, Sep. 2022, doi: 10.1155/2022/4049008. (SCI, JCR Q3, IF = 1.9 in 2022)
+
+* Yongqiang Cui, Yiyang Zhang, Di Bai, Yi Diao, and **Yulei Wang**, “3D Map and mmWave Radar-Based Self-Localization for UAVs in GNSS-Denied Environments,” *Vehicular Communications*, p. 100986, Nov. 2025, doi: 10.1016/j.vehcom.2025.100986.  (SCI, **JCR Q1, 中科院2区, IF = 6.5** in 2025) 
 
 * **Yulei Wang**, Yalin Liu, Yaru Fu, and Zhiguo Ding, "Pinching-Antenna Systems For Indoor Immersive Communications: A 3D-Modeling Based Performance Analysis," *IEEE Wireless Communications Letters*, submitted at Jun., 2025. (SCI) [[PDF](https://arxiv.org/abs/2506.07771)]
 
