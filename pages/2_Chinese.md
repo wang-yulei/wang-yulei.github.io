@@ -75,13 +75,21 @@ permalink: /Chinese/
 
 * **王玉磊**, 赵庆林, 姚舒敏, 周孟初, 冯丽\* 和张佩云, “[Analytical Modeling of Location and Contention Randomness for Node-Assisted WiFi Backscatter Communication](https://ieeexplore.ieee.org/document/10488089),” *IEEE Internet of Things Journal*, vol. 11, no. 13, pp. 23 336–23 347, July 2024, doi: 10.1109/JIOT.2024.3384032. (SCI, **JCR Q1, 中科院1区Top, IF = 10.6** in 2024) [[PDF](https://github.com/wang-yulei/LoCoR)]
 
-* **王玉磊**, 冯丽\*, 刘亚林 和李中捷, “[Stochastic geometry analysis for information integration and communication in cellular and D2D-based heterogeneous IoT](https://www.sciencedirect.com/science/article/abs/pii/S1389128625000945),” *Computer Networks*, vol. 261, p. 111126, Apr. 2025, doi: 10.1016/j.comnet.2025.111126. (SCI, **JCR Q2, 中科院2区, CCF B, IF = 4.6** in 2024) [[PDF](https://github.com/wang-yulei/wang-yulei.github.io/blob/master/papers/CN25_HetIoT_241214.pdf)] 
+* **王玉磊**, 冯丽\*, 刘亚林 和李中捷, “[Stochastic geometry analysis for information integration and communication in cellular and D2D-based heterogeneous IoT](https://www.sciencedirect.com/science/article/abs/pii/S1389128625000945),” *Computer Networks*, vol. 261, p. 111126, Apr. 2025, doi: 10.1016/j.comnet.2025.111126. (SCI, **JCR Q2, 中科院2区, CCF B, IF = 4.6** in 2024) [[PDF](https://github.com/wang-yulei/wang-yulei.github.io/blob/master/papers/CN25_HetIoT_241214.pdf)]
+
+* **王玉磊**, 刘亚林, 付雅茹\*, 和丁志国, “Pinching-Antenna Systems For Indoor Immersive Communications: A 3D-Modeling Based Performance Analysis,” IEEE Wireless Commun. Lett., vol. 15, pp. 1040–1044, 2026, doi: 10.1109/LWC.2025.3647030. (SCI, **JCR Q1, 中科院3区, IF = 5.5** in 2026) [[PDF](https://github.com/wang-yulei/wang-yulei.github.io/blob/master/papers/WCL26_PASS_251201.pdf)]
 
 * **王玉磊**,  冯丽\*, 姚舒敏, 梁轰, 石浩谞 和陈俞强, “[Outage Probability Analysis for D2D-Enabled Heterogeneous Cellular Networks with Exclusion Zone: A Stochastic Geometry Approach](https://www.techscience.com/CMES/v138n1/54254),” *Computer Modeling in Engineering & Sciences*, vol. 138, no. 1, pp. 639–661, May 2023, doi: 10.32604/cmes.2023.029565. (SCI, JCR Q3, IF = 2.4 in 2023)
 
+* **王玉磊**, 刘诗诗, 白迪\*, 和崔勇强, “Collaborative DNN Inference in Maritime Edge Intelligence Networks with Group Neural Multi-Armed Bandits,” Intell. and Converged Netw., vol. 6, no. 4, pp. 378–391, Dec. 2025, doi: 10.23919/ICN.2025.0025.
+
 * 金童, 郭剑岚\*, 林良誉, **王玉磊** 和陈云贵, "[Performance Analysis of Synchronous Multilink MAC Protocol with Automatic Repeat Request](https://www.hindawi.com/journals/misy/2022/4049008/)," *Mobile Information Systems*, vol. 2022, pp. 1–11, Sep. 2022, doi: 10.1155/2022/4049008. (SCI, JCR Q3, IF = 1.9 in 2022)
 
-* **王玉磊**, Yalin Liu, Yaru Fu, and Zhiguo Ding, "Pinching-Antenna Systems For Indoor Immersive Communications: A 3D-Modeling Based Performance Analysis," *IEEE Wireless Communications Letters*, submitted at Jun., 2025. (SCI) [[PDF]]
+* 崔勇强, 张奕阳, 白迪, 刁艺, 和**王玉磊**, “3D Map and mmWave Radar-Based Self-Localization for UAVs in GNSS-Denied Environments,” *Vehicular Communications*, p. 100986, Nov. 2025, doi: 10.1016/j.vehcom.2025.100986.  (SCI, **JCR Q1, 中科院2区, IF = 6.5** in 2025) 
+
+* **Yulei Wang**, Yalin Liu, Yaru Fu\*, and Yuanwei Liu, “Uplink Rate Maximization for Pinching Antenna-Assisted Covert Backscatter Communication,” IEEE Trans. Veh. Technol., submitted.
+
+* Yujie Qin, **Yulei Wang**, Mustafa A. Kishk, and Supeng Leng\*, “On Continuous Coverage in Large-Scale Backscatter Networks: A Percolation-Theoretic Approach”, IEEE Trans. Cogn. Commun. Netw., submitted.
                            
 ---
 
@@ -100,7 +108,7 @@ permalink: /Chinese/
 
 * [Elsevier Computers & Industrial Engineering (CAIE)](https://www.sciencedirect.com/journal/computers-and-industrial-engineering)
 * [Elsevier Computers Networks (CN)](https://www.sciencedirect.com/journal/computer-networks)
-* [Elsevier Future Generation Computer Systems (FGCS)](https://www.sciencedirect.com/journal/future-generation-computer-systems) (Excellent Reviewer)
+* [Elsevier Future Generation Computer Systems (FGCS)](https://www.sciencedirect.com/journal/future-generation-computer-systems) ([Excellent Reviewer](https://github.com/wang-yulei/wang-yulei.github.io/blob/master/papers/Certificate-FGCS-Excellence.pdf))
 * [Elsevier Journal of Network and Computer Applications (JNCA)](https://www.editorialmanager.com/jnca/default2.aspx)
 * [Elsevier Vehicular Communications (Vehcom)](https://www.sciencedirect.com/journal/vehicular-communications)
 * [IEEE Access (ACCESS)](https://ieeeaccess.ieee.org/)
@@ -108,6 +116,8 @@ permalink: /Chinese/
 * [IEEE Transactions on Vehicular Technology (TVT)](https://vtsociety.org/publication/ieee-transactions-vehicular-technology)
 * [IEEE Transactions on Cognitive Communications and Networking (TCCN)](https://www.comsoc.org/publications/journals/ieee-tccn)
 * [IEEE Wireless Communications Letters (WCL)](https://www.comsoc.org/publications/journals/ieee-wcl)
+* [IEEE Communications Letters (CL)](https://www.comsoc.org/publications/journals/ieee-communications-letters)
+* [IEEE Networking Letters (NL)](https://www.comsoc.org/publications/journals/ieee-lnet)
 * [TSP Computers, Materials & Continua (CMC)](https://www.techscience.com/journal/cmc)
 * [Wiley Engineering Reports (ENGR)](https://onlinelibrary.wiley.com/journal/25778196)
 * [PLOS One](http://www.plosone.org/home.action)
@@ -115,17 +125,20 @@ permalink: /Chinese/
 
 #### 国际会议审稿
 
-* [ELSP The 2nd International Conference on Computer, Vision and Intelligent Technology (ELSP ICCVIT 2024)](https://www.iccvit.net/) - Workshop Chair
-* [ELSP International Conference on Frontiers of Electronics, Information and Computation Technologies (ELSP ICFEICT 2024)](https://www.feict.net/) - Reviewer
-* [ELSP International Symposium on Internet of Things and Smart Cities (ELSP ISITSC 2024)](https://www.isitsc.org/) - Reviewer
-* [ELSP The International Conference on Electronics, Communications and Intelligent Science (ELSP ECIS 2024)](https://www.icecis.org/) - Reviewer
+* [The 2nd International Conference on Computer, Vision and Intelligent Technology (ICCVIT 2024)](https://www.iccvit.net/) - Workshop Co-chair
+* [International Conference on Frontiers of Electronics, Information and Computation Technologies (ICFEICT 2024)](https://www.feict.net/) - Reviewer
+* [International Symposium on Internet of Things and Smart Cities (ISITSC 2024)](https://www.isitsc.org/) - Reviewer
+* [The International Conference on Electronics, Communications and Intelligent Science (ECIS 2024)](https://www.icecis.org/) - Reviewer
 * [IEEE Congress on Evolutionary Computation (IEEE CEC 2024)](https://www.aconf.org/conf_193157.html) - Reviewer
 * [The 13th IEEE/CIC International Conference on Communications in China (IEEE ICCC 2024)](https://iccc2024.ieee-iccc.org/) - Reviewer
 * [The 2024 IEEE 100th Vehicular Technology Conference (IEEE VTC2024-Fall)](https://events.vtsociety.org/vtc2024-fall/) - Reviewer
-* [IEEE The 34th Wireless and Optical Communications Conference (IEEE WOCC2025)](https://www.wocc.org/wocc2025/) - TPC Member, Session Chair
-* [The 11th IEEE World Forum on Internet of Things (IEEE WFIoT2025)](https://wfiot2025.iot.ieee.org/) - TPC reviewer
+* [IEEE The 34th Wireless and Optical Communications Conference (IEEE WOCC2025)](https://www.wocc.org/wocc2025/) - [TPC Member, Session Chair](https://github.com/wang-yulei/wang-yulei.github.io/blob/master/papers/Certificate-WOCC25-Chair.pdf)
+* [The 11th IEEE World Forum on Internet of Things (IEEE WFIoT2025)](https://wfiot2025.iot.ieee.org/) - TPC Reviewer
+* [The 2nd International Symposium on IoT and Intelligent Robotics (IoTIR 2025)](https://www.iotir.org/) - Workshop Co-chair
 * [2025 IEEE/CIC International Conference on Communications in China (ICCC 2025)](https://iccc2025.ieee-iccc.org/) - Reviewer
 * [The 4th International Conference on Internet of Things, Communication and Intelligent Technology (IoTCIT 2025)](https://www.iotcit.org/intelligent-technology/) - Workshop Co-chair
+* [The 17th International Conference on Wireless Communications and Signal Processing (WCSP 2025)](http://www.ic-wcsp.org/2025/) - TPC Reviewer
+* [The 2026 6th International Conference on Computer Science and Blockchain (CCSB 2026)](https://www.iccsb.net/) - Publicity Chair
 
 ---
 
