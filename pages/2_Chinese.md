@@ -75,9 +75,11 @@ permalink: /Chinese/
 
 * **王玉磊**, 赵庆林, 姚舒敏, 周孟初, 冯丽\* 和张佩云, “[Analytical Modeling of Location and Contention Randomness for Node-Assisted WiFi Backscatter Communication](https://ieeexplore.ieee.org/document/10488089),” *IEEE Internet of Things Journal*, vol. 11, no. 13, pp. 23 336–23 347, July 2024, doi: 10.1109/JIOT.2024.3384032. (SCI, **JCR Q1, 中科院1区Top, IF = 10.6** in 2024) [[PDF](https://github.com/wang-yulei/LoCoR)]
 
+* **王玉磊**, 刘亚林, 付雅茹\*, 和刘元玮, “[Uplink Rate Maximization for Pinching Antenna-Assisted Covert Backscatter Communication](https://github.com/wang-yulei/wang-yulei.github.io/blob/master/papers/TVT26_PASS_CBSC_260423.pdf),” IEEE Trans. Veh. Technol., accepted. (SCI, **JCR Q1, 新锐2区Top, IF = 7.1** in 2025) [[PDF]([https://github.com/wang-yulei/LoCoR](https://github.com/wang-yulei/wang-yulei.github.io/blob/master/papers/TVT26_PASS_CBSC_260423.pdf))]
+
 * **王玉磊**, 冯丽\*, 刘亚林 和李中捷, “[Stochastic geometry analysis for information integration and communication in cellular and D2D-based heterogeneous IoT](https://www.sciencedirect.com/science/article/abs/pii/S1389128625000945),” *Computer Networks*, vol. 261, p. 111126, Apr. 2025, doi: 10.1016/j.comnet.2025.111126. (SCI, **JCR Q2, 中科院2区, CCF B, IF = 4.6** in 2024) [[PDF](https://github.com/wang-yulei/wang-yulei.github.io/blob/master/papers/CN25_HetIoT_241214.pdf)]
 
-* **王玉磊**, 刘亚林, 付雅茹\*, 和丁志国, “Pinching-Antenna Systems For Indoor Immersive Communications: A 3D-Modeling Based Performance Analysis,” IEEE Wireless Commun. Lett., vol. 15, pp. 1040–1044, 2026, doi: 10.1109/LWC.2025.3647030. (SCI, **JCR Q1, 中科院3区, IF = 5.5** in 2026) [[PDF](https://github.com/wang-yulei/wang-yulei.github.io/blob/master/papers/WCL26_PASS_251201.pdf)]
+* **王玉磊**, 刘亚林, 付雅茹\*, 和丁志国, “Pinching-Antenna Systems For Indoor Immersive Communications: A 3D-Modeling Based Performance Analysis,” IEEE Wireless Commun. Lett., vol. 15, pp. 1040–1044, 2026, doi: 10.1109/LWC.2025.3647030. (SCI, **JCR Q1, 新锐2区Top, IF = 5.5** in 2025) [[PDF](https://github.com/wang-yulei/wang-yulei.github.io/blob/master/papers/WCL26_PASS_251201.pdf)]
 
 * **王玉磊**,  冯丽\*, 姚舒敏, 梁轰, 石浩谞 和陈俞强, “[Outage Probability Analysis for D2D-Enabled Heterogeneous Cellular Networks with Exclusion Zone: A Stochastic Geometry Approach](https://www.techscience.com/CMES/v138n1/54254),” *Computer Modeling in Engineering & Sciences*, vol. 138, no. 1, pp. 639–661, May 2023, doi: 10.32604/cmes.2023.029565. (SCI, JCR Q3, IF = 2.4 in 2023)
 
